@@ -23,7 +23,7 @@ Build barcode generator & scanner cloud-based applications in C#, ASP.NET & othe
 Use our PHP REST SDK to enhance your PHP code for linear, 2D & postal barcode generation & recognition.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.cloud/barcode/family" innerText="View All Cloud APIs" >}}
+{{< blocks/products/pf/center-button href="/barcode/family" innerText="View All Cloud APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
