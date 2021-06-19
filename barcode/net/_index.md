@@ -6,11 +6,11 @@ url: /net
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Read, Recognize and Process Barcodes using .NET SDK" h2="Build cloud-based barcode manipulation Visual Studio applications for 60+ barcode symbologies of 1D, 2D and postal barcode types." logoImageSrc="/headers/aspose_barcode-for-net.png?v2?v2" pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for .NET" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Read and Recognize Barcodes via .NET SDK" h2="Build cloud-based barcode manipulation Visual Studio applications for 60+ barcode symbologies of 1D, 2D and postal barcode types." logoImageSrc="/headers/aspose_barcode-for-net.png" pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for .NET" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-net.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-java" liveDemosLink="https://products.aspose.app/barcode/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-net.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-dotnet" liveDemosLink="https://products.aspose.app/barcode/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.BarCode Cloud SDK for .NET helps developers build barcode image processing applications in C#, .NET and other visual studio related technologies. You can make new barcodes with c#, scan existing barcodes as well as set barcode configurations, such as, barcode bar height, its dimensions, barcode image format and so on. Aspose.BarCode Cloud allows you to create 1D (Linear), 2D as well as Postal Barcode. A wide array of barcode symbologies is supported that include more than 60 different barcode types, such as, EAN, UPC, Codabar, PDF417, QR, MicroQR, Postnet, Platnet, RM4SCC and so on.</p>
@@ -439,7 +439,7 @@ using (FileStream stream = File.Create("output.jpg"))
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/barcode/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode Cloud for cURL?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode Cloud for .NET?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="Security" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}

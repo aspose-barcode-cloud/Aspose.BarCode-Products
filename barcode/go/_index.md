@@ -6,7 +6,7 @@ url: /go
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Go SDK to Read, Recognize & Manage Barcodes" h2="Use REST API to create barcodes processing apps for handling more than 60 symbologies in the cloud." logoImageSrc="/headers/aspose_barcode-for-go.png?v2?v2" pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for Go" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Go SDK to Read, Recognize & Manage Barcodes" h2="Use REST API to create barcodes processing apps for handling more than 60 symbologies in the cloud." logoImageSrc="/headers/aspose_barcode-for-go.png" pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for Go" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for Go" >}}
 
@@ -440,7 +440,7 @@ url: /go
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/barcode/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode Cloud for cURL?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode Cloud for Go?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="Security" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}

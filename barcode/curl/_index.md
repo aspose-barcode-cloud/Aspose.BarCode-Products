@@ -13,6 +13,7 @@ url: /curl
 {{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-curl.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud" liveDemosLink="https://products.aspose.app/barcode/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
+<p>Aspose.BarCode Cloud for cURL helps you build cloud-based barcode generator, barcode reader, and barcode scanner applications using simple cURL commands. It supports more than 60 barcode symbologies of 1D (linear), 2D, and postal barcode types. Using Aspose.BarCode Cloud for cURL, you can identify barcode type, read barcode from image using image processing, and configure barcode properties, such as, its dimensions along X and Y axis, barcode angle and barcode image resolution.</p>
 <p>Aspose.BarCode Cloud for cURL also allows you to set bar height of the barcode, set barcode image format as well as supports barcode recognition via checksum option. You can generate multiple barcodes in on go.</p>
 {{< /blocks/products/pf/tab-content >}}
 
@@ -129,7 +130,7 @@ url: /curl
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Recognize specified number of barcodes or read barcode from specific region of image
+     Recognize any or all barcodes or on specific region of image
     </p>
    </div>
    <div class="col-lg-4">

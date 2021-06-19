@@ -6,13 +6,14 @@ url: /python
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python Cloud SDK to Create, Scan & Process Barcodes" h2="Develop Python cloud applications for generating, scanning, processing, recognizing, and configuring 1D, 2D & postal barcodes for 60+ symbologies." logoImageSrc="/headers/aspose_barcode-for-python.png?v2?v2" pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for Python" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Python Cloud SDK to Create, Scan & Process Barcodes" h2="Develop Python cloud applications for generating, scanning, processing, recognizing, and configuring 1D, 2D & postal barcodes for 60+ symbologies." logoImageSrc="/headers/aspose_barcode-for-python.png" pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for Python" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for Python" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-python.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-php" liveDemosLink="https://products.aspose.app/barcode/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
+<p>Aspose.BarCode Cloud Python SDK is a Barcode management Cloud based SDK that enables software developers to develop barcode processing applications using Python cloud API. The cloud API supports working with linear, 2D, and postal barcode creation, modification, and recognition in the cloud. It allows producing barcode images in some of the popular image file formats, such as JPEG, PNG, GIF, BMP, TIFF, EMF, WMF, EXIF, and ICON.</p>
 <p>Aspose.BarCode Cloud Python SDK supports a wide arrange of features for generating, reading and manipulating BarCode images in the cloud, such as specify image width, height, border style, and output image format as well as setting barcode attributes like font style, font color, background color, barcode type, and the barcode text location. The API allows recognizing barcodes from stream or image files with a couple of lines of Python code.</p>
 {{< /blocks/products/pf/tab-content >}}
 
@@ -469,7 +470,7 @@ url: /python
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/barcode/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode Cloud for cURL?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode Cloud for Python?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="Security" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}

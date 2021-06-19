@@ -6,13 +6,14 @@ url: /java
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Cloud SDK to Make, Read & Recognize Barcodes" h2="Add Barcodes generation & Recognition functionalities to your cloud applications without any external dependencies. Use more than 60 symbologies of 1D, 2D, and postal Barcode." logoImageSrc="/headers/aspose_barcode-for-java.png?v2?v2" pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for Java" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Java Cloud SDK to Create & Recognize Barcodes" h2="Add Barcodes generation & Recognition functionalities to your cloud applications without any external dependencies. Use more than 60 symbologies of 1D, 2D, and postal Barcode." logoImageSrc="/headers/aspose_barcode-for-java.png" pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for Java" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for Java" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-java.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-java" liveDemosLink="https://products.aspose.app/barcode/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
+<p>Aspose.BarCode Cloud Java SDK helps software developers in building cloud-based applications for working with Barcode images. The SDK has included support for linear, 2D, and postal Barcode generation and recognition in the cloud. The SDK has provided support for numerous features related to creating, reading, and handling Barcode images in the cloud, such as generate Barcode images, save Barcodes to stream, recognize Barcodes, embedding Barcodes in a file, add text to Barcodes, manage Barcode text attributes and many more.  </p>
 <p>Aspose.BarCode Cloud Java SDK has included support for numerous Barcode symbologies (more than 60) such as EAN, UPC, Codabar, PDF417, QR, MicroQR, Postnet, Planet, RM4SCC, and so on. Developers can also produce Barcode images in several popular image formats, such as  JPEG, PNG, GIF, BMP, TIFF, EMF, WMF, SVG, EXIF, and ICON file formats. The SDK allows to create single or multiple Barcode images with just a couple of lines of Java code.</p>
 {{< /blocks/products/pf/tab-content >}}
 
@@ -129,7 +130,7 @@ url: /java
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Recognize specified number of barcodes or read barcode from specific region of image
+     Recognize barcode from specific region of image
     </p>
    </div>
    <div class="col-lg-4">
@@ -464,7 +465,7 @@ url: /java
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/barcode/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode Cloud for cURL?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode Cloud for Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="Security" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}

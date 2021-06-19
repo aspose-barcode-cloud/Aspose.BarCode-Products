@@ -6,7 +6,7 @@ url: /php
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Generate, Scan and Process Barcodes with PHP Cloud SDK" h2="Build PHP cloud applications for generating, scanning, processing and configuring 1D, 2D and postal barcodes for 60+ symbologies." logoImageSrc="/headers/aspose_barcode-for-php.png?v2?v2" pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for PHP" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Generate, Scan and Process Barcodes with PHP Cloud SDK" h2="Build PHP cloud applications for generating, scanning, processing and configuring 1D, 2D and postal barcodes for 60+ symbologies." logoImageSrc="/headers/aspose_barcode-for-php.png" pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for PHP" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for PHP" >}}
 
@@ -437,7 +437,7 @@ url: /php
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/barcode/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode Cloud for cURL?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode Cloud for PHP?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="Security" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}
