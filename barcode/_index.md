@@ -55,6 +55,10 @@ Free online barcode identifier. Use your camera to capture a barcode image or up
 Free online barcode generator. Generate Linear, 2D & postal barcodes on the go. Supports various image formats.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.BarCode " title="Embed" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_embed-app.png" productLink="https://products.aspose.app/barcode/embed" >}}
+Embed barcodes of any type for your site with your own text and size.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.app/barcode/family" innerText="View All Cross Platform Apps" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
