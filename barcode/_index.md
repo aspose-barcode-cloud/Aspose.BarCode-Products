@@ -29,19 +29,19 @@ Use our PHP REST SDK to enhance your PHP code for linear, 2D & postal barcode ge
 
 {{< blocks/products/pf/product-card-row title="Aspose.BarCode On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-net.png" productLink="https://products.aspose.com/barcode/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode for " title=".NET" imgSrc="/product-logos/aspose_barcode-for-net.svg" productLink="https://products.aspose.com/barcode/net/" >}}
 On-premise .NET class library to build barcode reader & scanner apps via C#, ASP.NET, VB.NET etc.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-java.png" productLink="https://products.aspose.com/barcode/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode for " title="Java" imgSrc="/product-logos/aspose_barcode-for-java.svg" productLink="https://products.aspose.com/barcode/java/" >}}
 Create your own barcode maker & recognizer Java applications using on-premise Java API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/barcode/272x272/aspose_barcode-for-cpp.png" productLink="https://products.aspose.com/barcode/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode for " title="C++" imgSrc="/product-logos/aspose_barcode-for-cpp.svg" productLink="https://products.aspose.com/barcode/cpp/" >}}
 1D, 2D & postal Barcode generation & processor on-premise C++ API. Supports 60+ symbologies.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/barcode/family" innerText="View All On Premise APIs" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/barcode/family/" innerText="View All On Premise APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
