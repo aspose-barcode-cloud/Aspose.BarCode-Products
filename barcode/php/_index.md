@@ -6,11 +6,11 @@ url: /php
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Generate, Scan and Process Barcodes with PHP Cloud SDK" h2="Build PHP cloud applications for generating, scanning, processing and configuring 1D, 2D and postal barcodes for 60+ symbologies." logoImageSrc="/headers/aspose_barcode-for-php.png" pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for PHP" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Generate, Scan and Process Barcodes with PHP Cloud SDK" h2="Build PHP cloud applications for generating, scanning, processing and configuring 1D, 2D and postal barcodes for 60+ symbologies." logoImageSrc="/headers/aspose_barcode-for-php.svg" pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for PHP" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for PHP" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-php.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-php" liveDemosLink="https://products.aspose.app/barcode/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-php.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-php" liveDemosLink="https://products.aspose.app/barcode/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>You can make new barcodes and configure barcode properties as per your business requirements. Aspose.BarCode Cloud SDK for PHP, also allows you to set physical attributes, such as, barcode dimensions, resolution, margin and display angle. You can generate auto-sized barcodes or by specifying exact dimensions. The barcode text location can also be provided to control the barcode location.</p>
@@ -39,7 +39,7 @@ url: /php
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_barcode-for-php.png" alt="Barcode manipulation via PHP Cloud SDK"><header>Aspose.BarCode</header><footer>Cloud<small> <em> for </em> </small>PHP</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_barcode-for-php.svg" alt="Barcode manipulation via PHP Cloud SDK"><header>Aspose.BarCode</header><footer>Cloud<small> <em> for </em> </small>PHP</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -59,7 +59,7 @@ url: /php
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_barcode-for-php.png" alt="PHP Barcode SDK"><header>Aspose.BarCode</header><footer>Cloud<small> <em> for </em> </small>PHP</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_barcode-for-php.svg" alt="PHP Barcode SDK"><header>Aspose.BarCode</header><footer>Cloud<small> <em> for </em> </small>PHP</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 
@@ -449,13 +449,13 @@ url: /php
 
 {{< blocks/products/pf/offers-section pfName="Aspose.BarCode" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/barcode/curl/" imgSrc="/sdk/aspose_barcode-for-curl.png" platform="cURL" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/net/" imgSrc="/sdk/aspose_barcode-for-net.png" platform=".NET" >}}
-	{{< blocks/products/pf/offers-section-item link="/barcode/java/" imgSrc="/sdk/aspose_barcode-for-java.png" platform="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/php/" imgSrc="/sdk/aspose_barcode-for-php.png" platform="PHP" >}}
-	{{< blocks/products/pf/offers-section-item link="/barcode/python/" imgSrc="/sdk/aspose_barcode-for-python.png" platform="Python" >}}
-	{{< blocks/products/pf/offers-section-item link="/barcode/nodejs/" imgSrc="/sdk/aspose_barcode-for-node.png" platform="Node.js" >}}
-	{{< blocks/products/pf/offers-section-item link="/barcode/go/" imgSrc="/sdk/aspose_barcode-for-go.png" platform="Go" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/curl/" imgSrc="/sdk/aspose_barcode-for-curl.svg" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/net/" imgSrc="/sdk/aspose_barcode-for-net.svg" platform=".NET" >}}
+	{{< blocks/products/pf/offers-section-item link="/barcode/java/" imgSrc="/sdk/aspose_barcode-for-java.svg" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/php/" imgSrc="/sdk/aspose_barcode-for-php.svg" platform="PHP" >}}
+	{{< blocks/products/pf/offers-section-item link="/barcode/python/" imgSrc="/sdk/aspose_barcode-for-python.svg" platform="Python" >}}
+	{{< blocks/products/pf/offers-section-item link="/barcode/nodejs/" imgSrc="/sdk/aspose_barcode-for-node.svg" platform="Node.js" >}}
+	{{< blocks/products/pf/offers-section-item link="/barcode/go/" imgSrc="/sdk/aspose_barcode-for-go.svg" platform="Go" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

@@ -6,11 +6,11 @@ url: /python
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python Cloud SDK to Create, Scan & Process Barcodes" h2="Develop Python cloud applications for generating, scanning, processing, recognizing, and configuring 1D, 2D & postal barcodes for 60+ symbologies." logoImageSrc="/headers/aspose_barcode-for-python.png" pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for Python" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Python Cloud SDK to Create, Scan & Process Barcodes" h2="Develop Python cloud applications for generating, scanning, processing, recognizing, and configuring 1D, 2D & postal barcodes for 60+ symbologies." logoImageSrc="/headers/aspose_barcode-for-python.svg" pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for Python" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for Python" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-python.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-php" liveDemosLink="https://products.aspose.app/barcode/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-python.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-php" liveDemosLink="https://products.aspose.app/barcode/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.BarCode Cloud Python SDK is a Barcode management Cloud based SDK that enables software developers to develop barcode processing applications using Python cloud API. The cloud API supports working with linear, 2D, and postal barcode creation, modification, and recognition in the cloud. It allows producing barcode images in some of the popular image file formats, such as JPEG, PNG, GIF, BMP, TIFF, EMF, WMF, EXIF, and ICON.</p>
@@ -39,7 +39,7 @@ url: /python
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_barcode-for-python.png" alt="Barcode manipulation via Python Cloud SDK"><header>Aspose.BarCode</header><footer>Cloud<small> <em> for </em> </small>Python</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_barcode-for-python.svg" alt="Barcode manipulation via Python Cloud SDK"><header>Aspose.BarCode</header><footer>Cloud<small> <em> for </em> </small>Python</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -59,7 +59,7 @@ url: /python
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_barcode-for-python.png" alt="Python Barcode SDK"><header>Aspose.BarCode</header><footer>Cloud<small> <em> for </em> </small>Python</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_barcode-for-python.svg" alt="Python Barcode SDK"><header>Aspose.BarCode</header><footer>Cloud<small> <em> for </em> </small>Python</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -481,13 +481,13 @@ url: /python
 
 {{< blocks/products/pf/offers-section pfName="Aspose.BarCode" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/barcode/curl/" imgSrc="/sdk/aspose_barcode-for-curl.png" platform="cURL" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/net/" imgSrc="/sdk/aspose_barcode-for-net.png" platform=".NET" >}}
-	{{< blocks/products/pf/offers-section-item link="/barcode/java/" imgSrc="/sdk/aspose_barcode-for-java.png" platform="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/php/" imgSrc="/sdk/aspose_barcode-for-php.png" platform="PHP" >}}
-	{{< blocks/products/pf/offers-section-item link="/barcode/python/" imgSrc="/sdk/aspose_barcode-for-python.png" platform="Python" >}}
-	{{< blocks/products/pf/offers-section-item link="/barcode/nodejs/" imgSrc="/sdk/aspose_barcode-for-node.png" platform="Node.js" >}}
-	{{< blocks/products/pf/offers-section-item link="/barcode/go/" imgSrc="/sdk/aspose_barcode-for-go.png" platform="Go" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/curl/" imgSrc="/sdk/aspose_barcode-for-curl.svg" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/net/" imgSrc="/sdk/aspose_barcode-for-net.svg" platform=".NET" >}}
+	{{< blocks/products/pf/offers-section-item link="/barcode/java/" imgSrc="/sdk/aspose_barcode-for-java.svg" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/php/" imgSrc="/sdk/aspose_barcode-for-php.svg" platform="PHP" >}}
+	{{< blocks/products/pf/offers-section-item link="/barcode/python/" imgSrc="/sdk/aspose_barcode-for-python.svg" platform="Python" >}}
+	{{< blocks/products/pf/offers-section-item link="/barcode/nodejs/" imgSrc="/sdk/aspose_barcode-for-node.svg" platform="Node.js" >}}
+	{{< blocks/products/pf/offers-section-item link="/barcode/go/" imgSrc="/sdk/aspose_barcode-for-go.svg" platform="Go" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

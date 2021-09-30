@@ -6,11 +6,11 @@ url: /nodejs
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Generate & Scan Barcode via Node.js" h2="Use Node.js to build cloud-based barcode manipulation applications for 1D, 2D and postal barcode types for more than 60 symbologies." logoImageSrc="/headers/aspose_barcode-for-node.png" pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for Node.js" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Generate & Scan Barcode via Node.js" h2="Use Node.js to build cloud-based barcode manipulation applications for 1D, 2D and postal barcode types for more than 60 symbologies." logoImageSrc="/headers/aspose_barcode-for-node.svg" pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for Node.js" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for Node.js" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-node.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-node" liveDemosLink="https://products.aspose.app/barcode/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-node.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-node" liveDemosLink="https://products.aspose.app/barcode/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Use Aspose.BarCode Cloud SDK for Node.js, to rapidly develop cloud based node.js barcode generator and scanner applications. Our easy-to-use barcode REST API helps you manipulate and process, generate, recognize and convert 1D (EAN, UPC, Codabar, GS1), 2D (Macro PDF417, Micro PDF417, QR) and postal (Postnet, Planet, RM4SCC) barcodes for more than 60 barcode symbologies.</p>
@@ -40,7 +40,7 @@ url: /nodejs
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_barcode-for-node.png" alt="Barcode manipulation via Node.js Cloud SDK"><header>Aspose.BarCode</header><footer>Cloud<small> <em> for </em> </small>Node.js</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_barcode-for-node.svg" alt="Barcode manipulation via Node.js Cloud SDK"><header>Aspose.BarCode</header><footer>Cloud<small> <em> for </em> </small>Node.js</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -60,7 +60,7 @@ url: /nodejs
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_barcode-for-node.png" alt=".NET Barcode SDK"><header>Aspose.BarCode</header><footer>Cloud<small> <em> for </em> </small>Node.js</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_barcode-for-node.svg" alt=".NET Barcode SDK"><header>Aspose.BarCode</header><footer>Cloud<small> <em> for </em> </small>Node.js</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 
@@ -449,13 +449,13 @@ url: /nodejs
 
 {{< blocks/products/pf/offers-section pfName="Aspose.BarCode" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/barcode/curl/" imgSrc="/sdk/aspose_barcode-for-curl.png" platform="cURL" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/net/" imgSrc="/sdk/aspose_barcode-for-net.png" platform=".NET" >}}
-	{{< blocks/products/pf/offers-section-item link="/barcode/java/" imgSrc="/sdk/aspose_barcode-for-java.png" platform="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/php/" imgSrc="/sdk/aspose_barcode-for-php.png" platform="PHP" >}}
-	{{< blocks/products/pf/offers-section-item link="/barcode/python/" imgSrc="/sdk/aspose_barcode-for-python.png" platform="Python" >}}
-	{{< blocks/products/pf/offers-section-item link="/barcode/nodejs/" imgSrc="/sdk/aspose_barcode-for-node.png" platform="Node.js" >}}
-	{{< blocks/products/pf/offers-section-item link="/barcode/go/" imgSrc="/sdk/aspose_barcode-for-go.png" platform="Go" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/curl/" imgSrc="/sdk/aspose_barcode-for-curl.svg" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/net/" imgSrc="/sdk/aspose_barcode-for-net.svg" platform=".NET" >}}
+	{{< blocks/products/pf/offers-section-item link="/barcode/java/" imgSrc="/sdk/aspose_barcode-for-java.svg" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/php/" imgSrc="/sdk/aspose_barcode-for-php.svg" platform="PHP" >}}
+	{{< blocks/products/pf/offers-section-item link="/barcode/python/" imgSrc="/sdk/aspose_barcode-for-python.svg" platform="Python" >}}
+	{{< blocks/products/pf/offers-section-item link="/barcode/nodejs/" imgSrc="/sdk/aspose_barcode-for-node.svg" platform="Node.js" >}}
+	{{< blocks/products/pf/offers-section-item link="/barcode/go/" imgSrc="/sdk/aspose_barcode-for-go.svg" platform="Go" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

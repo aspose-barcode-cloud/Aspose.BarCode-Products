@@ -6,11 +6,11 @@ url: /net
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Read and Recognize Barcodes via .NET SDK" h2="Build cloud-based barcode manipulation Visual Studio applications for 60+ barcode symbologies of 1D, 2D and postal barcode types." logoImageSrc="/headers/aspose_barcode-for-net.png" pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for .NET" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Read and Recognize Barcodes via .NET SDK" h2="Build cloud-based barcode manipulation Visual Studio applications for 60+ barcode symbologies of 1D, 2D and postal barcode types." logoImageSrc="/headers/aspose_barcode-for-net.svg" pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for .NET" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-net.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-dotnet" liveDemosLink="https://products.aspose.app/barcode/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-dotnet" liveDemosLink="https://products.aspose.app/barcode/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.BarCode Cloud SDK for .NET helps developers build barcode image processing applications in C#, .NET and other visual studio related technologies. You can make new barcodes with c#, scan existing barcodes as well as set barcode configurations, such as, barcode bar height, its dimensions, barcode image format and so on. Aspose.BarCode Cloud allows you to create 1D (Linear), 2D as well as Postal Barcode. A wide array of barcode symbologies is supported that include more than 60 different barcode types, such as, EAN, UPC, Codabar, PDF417, QR, MicroQR, Postnet, Platnet, RM4SCC and so on.</p>
@@ -38,7 +38,7 @@ url: /net
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_barcode-for-net.png" alt="Barcode manipulation via .NET Cloud SDK"><header>Aspose.BarCode</header><footer>Cloud<small> <em> for </em> </small>.NET</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_barcode-for-net.svg" alt="Barcode manipulation via .NET Cloud SDK"><header>Aspose.BarCode</header><footer>Cloud<small> <em> for </em> </small>.NET</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -58,7 +58,7 @@ url: /net
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_barcode-for-net.png" alt=".NET Barcode SDK"><header>Aspose.BarCode</header><footer>Cloud<small> <em> for </em> </small>.NET</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_barcode-for-net.svg" alt=".NET Barcode SDK"><header>Aspose.BarCode</header><footer>Cloud<small> <em> for </em> </small>.NET</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 
@@ -450,13 +450,13 @@ using (FileStream stream = File.Create("output.jpg"))
 
 {{< blocks/products/pf/offers-section pfName="Aspose.BarCode" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/barcode/curl/" imgSrc="/sdk/aspose_barcode-for-curl.png" platform="cURL" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/net/" imgSrc="/sdk/aspose_barcode-for-net.png" platform=".NET" >}}
-	{{< blocks/products/pf/offers-section-item link="/barcode/java/" imgSrc="/sdk/aspose_barcode-for-java.png" platform="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/php/" imgSrc="/sdk/aspose_barcode-for-php.png" platform="PHP" >}}
-	{{< blocks/products/pf/offers-section-item link="/barcode/python/" imgSrc="/sdk/aspose_barcode-for-python.png" platform="Python" >}}
-	{{< blocks/products/pf/offers-section-item link="/barcode/nodejs/" imgSrc="/sdk/aspose_barcode-for-node.png" platform="Node.js" >}}
-	{{< blocks/products/pf/offers-section-item link="/barcode/go/" imgSrc="/sdk/aspose_barcode-for-go.png" platform="Go" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/curl/" imgSrc="/sdk/aspose_barcode-for-curl.svg" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/net/" imgSrc="/sdk/aspose_barcode-for-net.svg" platform=".NET" >}}
+	{{< blocks/products/pf/offers-section-item link="/barcode/java/" imgSrc="/sdk/aspose_barcode-for-java.svg" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/php/" imgSrc="/sdk/aspose_barcode-for-php.svg" platform="PHP" >}}
+	{{< blocks/products/pf/offers-section-item link="/barcode/python/" imgSrc="/sdk/aspose_barcode-for-python.svg" platform="Python" >}}
+	{{< blocks/products/pf/offers-section-item link="/barcode/nodejs/" imgSrc="/sdk/aspose_barcode-for-node.svg" platform="Node.js" >}}
+	{{< blocks/products/pf/offers-section-item link="/barcode/go/" imgSrc="/sdk/aspose_barcode-for-go.svg" platform="Go" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

@@ -6,11 +6,11 @@ url: /curl
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Barcode Generator & Scanner via cURL" h2="Cloud REST API to generate and read QR, UPC, EAN 13, GS1 and lots of other 1D, 2D, Postal barcode types." logoImageSrc="/headers/aspose_barcode-for-curl.png" pfName="Aspose.BarCode" subTitlepfName="Cloud for cURL" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Barcode Generator & Scanner via cURL" h2="Cloud REST API to generate and read QR, UPC, EAN 13, GS1 and lots of other 1D, 2D, Postal barcode types." logoImageSrc="/headers/aspose_barcode-for-curl.svg" pfName="Aspose.BarCode" subTitlepfName="Cloud for cURL" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="Cloud for cURL" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-curl.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud" liveDemosLink="https://products.aspose.app/barcode/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-curl.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud" liveDemosLink="https://products.aspose.app/barcode/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.BarCode Cloud for cURL helps you build cloud-based barcode generator, barcode reader, and barcode scanner applications using simple cURL commands. It supports more than 60 barcode symbologies of 1D (linear), 2D, and postal barcode types. Using Aspose.BarCode Cloud for cURL, you can identify barcode type, read barcode from image using image processing, and configure barcode properties, such as, its dimensions along X and Y axis, barcode angle and barcode image resolution.</p>
@@ -39,7 +39,7 @@ url: /curl
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_barcode-for-curl.png" alt="Barcode manipulation capabilities in Cloud"><header>Aspose.BarCode</header><footer>Cloud<small> <em> for </em> </small>cURL</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_barcode-for-curl.svg" alt="Barcode manipulation capabilities in Cloud"><header>Aspose.BarCode</header><footer>Cloud<small> <em> for </em> </small>cURL</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -59,7 +59,7 @@ url: /curl
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_barcode-for-curl.png" alt="Barcode manipulation capabilities in Cloud"><header>Aspose.BarCode</header><footer>Cloud<small> <em> for </em> </small>cURL</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_barcode-for-curl.svg" alt="Barcode manipulation capabilities in Cloud"><header>Aspose.BarCode</header><footer>Cloud<small> <em> for </em> </small>cURL</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 
@@ -439,13 +439,13 @@ url: /curl
 
 {{< blocks/products/pf/offers-section pfName="Aspose.BarCode" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/barcode/curl/" imgSrc="/sdk/aspose_barcode-for-curl.png" platform="cURL" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/net/" imgSrc="/sdk/aspose_barcode-for-net.png" platform=".NET" >}}
-	{{< blocks/products/pf/offers-section-item link="/barcode/java/" imgSrc="/sdk/aspose_barcode-for-java.png" platform="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/php/" imgSrc="/sdk/aspose_barcode-for-php.png" platform="PHP" >}}
-	{{< blocks/products/pf/offers-section-item link="/barcode/python/" imgSrc="/sdk/aspose_barcode-for-python.png" platform="Python" >}}
-	{{< blocks/products/pf/offers-section-item link="/barcode/nodejs/" imgSrc="/sdk/aspose_barcode-for-node.png" platform="Node.js" >}}
-	{{< blocks/products/pf/offers-section-item link="/barcode/go/" imgSrc="/sdk/aspose_barcode-for-go.png" platform="Go" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/curl/" imgSrc="/sdk/aspose_barcode-for-curl.svg" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/net/" imgSrc="/sdk/aspose_barcode-for-net.svg" platform=".NET" >}}
+	{{< blocks/products/pf/offers-section-item link="/barcode/java/" imgSrc="/sdk/aspose_barcode-for-java.svg" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/php/" imgSrc="/sdk/aspose_barcode-for-php.svg" platform="PHP" >}}
+	{{< blocks/products/pf/offers-section-item link="/barcode/python/" imgSrc="/sdk/aspose_barcode-for-python.svg" platform="Python" >}}
+	{{< blocks/products/pf/offers-section-item link="/barcode/nodejs/" imgSrc="/sdk/aspose_barcode-for-node.svg" platform="Node.js" >}}
+	{{< blocks/products/pf/offers-section-item link="/barcode/go/" imgSrc="/sdk/aspose_barcode-for-go.svg" platform="Go" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

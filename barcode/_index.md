@@ -11,15 +11,15 @@ url: /
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.BarCode Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud for cURL" imgSrc="/sdk/aspose_barcode-for-curl.png" productLink="/barcode/curl/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud for cURL" imgSrc="/sdk/aspose_barcode-for-curl.svg" productLink="/barcode/curl/" >}}
 Generate, recognize & customize barcodes using cURL commands via REST API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_barcode-for-net.png" productLink="/barcode/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_barcode-for-net.svg" productLink="/barcode/net/" >}}
 Build barcode generator & scanner cloud-based applications in C#, ASP.NET & other .NET supported languages.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for PHP" imgSrc="/sdk/aspose_barcode-for-php.png" productLink="/barcode/php/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for PHP" imgSrc="/sdk/aspose_barcode-for-php.svg" productLink="/barcode/php/" >}}
 Use our PHP REST SDK to enhance your PHP code for linear, 2D & postal barcode generation & recognition.
 {{< /blocks/products/pf/product >}}
 
