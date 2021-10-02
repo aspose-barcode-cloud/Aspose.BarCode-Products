@@ -6,7 +6,7 @@ url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/family-upper-banner h1="Barcode Generator & Scanner Solution" h2="Build 1D, 2D, Postal Barcode Generator & Reader apps for desktop, web & cloud platforms or use our online free Apps to convert or recognize barcodes." logoImageSrc="https://www.aspose.cloud/templates/brand/images/barcode/aspose_barcode-brand.png" imageAlt="Aspose.BarCode Product Family" >}}
+{{< blocks/products/pf/family-upper-banner h1="Barcode Generator & Scanner Solution" h2="Build 1D, 2D, Postal Barcode Generator & Reader apps for desktop, web & cloud platforms or use our online free Apps to convert or recognize barcodes." logoImageSrc="/headers/aspose_barcode-brand.svg" imageAlt="Aspose.BarCode Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.BarCode Cloud APIs Include" >}}
