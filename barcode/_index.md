@@ -9,7 +9,7 @@ url: /
 {{< blocks/products/pf/family-upper-banner h1="Barcode Generator & Scanner Solution" h2="Build 1D, 2D, Postal Barcode Generator & Reader apps for desktop, web & cloud platforms or use our online free Apps to convert or recognize barcodes." logoImageSrc="/headers/aspose_barcode-brand.svg" imageAlt="Aspose.BarCode Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.BarCode Cloud APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.BarCode Low Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud for cURL" imgSrc="/sdk/aspose_barcode-for-curl.svg" productLink="/barcode/curl/" >}}
 Generate, recognize & customize barcodes using cURL commands via REST API.
@@ -23,11 +23,11 @@ Build barcode generator & scanner cloud-based applications in C#, ASP.NET & othe
 Use our PHP REST SDK to enhance your PHP code for linear, 2D & postal barcode generation & recognition.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="/barcode/family/" innerText="View All Cloud APIs" >}}
+{{< blocks/products/pf/center-button href="/barcode/family/" innerText="View All Low Code APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.BarCode On Premise APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.BarCode High Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.BarCode for " title=".NET" imgSrc="/product-logos/aspose_barcode-for-net.svg" productLink="https://products.aspose.com/barcode/net/" >}}
 On-premise .NET class library to build barcode reader & scanner apps via C#, ASP.NET, VB.NET etc.
@@ -45,7 +45,7 @@ Create your own barcode maker & recognizer Java applications using on-premise Ja
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.BarCode Cross Platform Apps Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.BarCode No Code Apps Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.BarCode " title="Recognize" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_recognize-app.png" productLink="https://products.aspose.app/barcode/recognize" >}}
 Free online barcode identifier. Use your camera to capture a barcode image or upload a barcode file to recognize the barcode.
@@ -59,7 +59,7 @@ Free online barcode generator. Generate Linear, 2D & postal barcodes on the go. 
 Embed barcodes of any type for your site with your own text and size.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/barcode/family" innerText="View All Cross Platform Apps" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/barcode/family" innerText="View All No Code Apps" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

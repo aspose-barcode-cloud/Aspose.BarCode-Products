@@ -9,7 +9,7 @@ url: /family
 {{< blocks/products/pf/upper-banner h1="Build Barcode Generator & Reader Cloud Apps" h2="Cloud SDKs to generate, read and convert UPC, QR, GS1, EAN and 60+ types of 1D, 2D and Postal barcodes on multiple development platforms." logoImageSrc="/headers/aspose_barcode.svg" pfName="Aspose.BarCode" downloadUrl="" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.BarCode Cloud APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.BarCode Low Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud for cURL" imgSrc="/sdk/aspose_barcode-for-curl.svg" productLink="/barcode/curl/" >}}
 cURL REST API to recognize, read and make 1D (linear), 2D and postal barcodes. Support for 60+ barcode symbologies. Easy barcode processing using cURL commands.
