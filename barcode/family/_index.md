@@ -1,6 +1,6 @@
 ﻿---
-title: REST Barcode Generator & Reader API (1D, 2D & Postal Barcodes) 
-description: Cloud SDKs to generate, read and convert UPC, QR, GS1, EAN and 60+ types of 1D, 2D and Postal barcodes on multiple development platforms 
+title: REST Barcode Generator & Reader API (1D, 2D & Postal Barcodes)
+description: Cloud SDKs to generate, read and convert UPC, QR, GS1, EAN and 60+ types of 1D, 2D and Postal barcodes on multiple development platforms
 weight: 10
 url: /family
 ---
@@ -37,6 +37,10 @@ Perform advanced Barcode images processing and recognition capabilities via Pyth
 
 {{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for Go" imgSrc="/sdk/aspose_barcode-for-go.svg" productLink="/barcode/go/" >}}
 Add Barcode images creation, scanning and processing capabilities into your cloud applications using Platform Independent Go Cloud SDK.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for Dart" imgSrc="/sdk/aspose_barcode-for-dart.svg" productLink="/barcode/dart/" >}}
+Add Barcode images creation, scanning and processing capabilities into your cloud applications using Platform Independent Dart Cloud SDK.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
