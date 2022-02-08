@@ -40,7 +40,7 @@ Add Barcode images creation, scanning and processing capabilities into your clou
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for Dart" imgSrc="/sdk/aspose_barcode-for-dart.svg" productLink="/barcode/dart/" >}}
-Add Barcode images creation, scanning and processing capabilities into your cloud applications using Platform Independent Dart Cloud SDK.
+Add Barcode images creation, scanning and processing capabilities into your cloud applications using Platform Independent Dart and Flutter Cloud SDK.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
