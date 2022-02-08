@@ -1,6 +1,6 @@
 ﻿---
-title: Go REST API - Generate, Scan & Recognize Barcodes Image in Cloud Apps 
-description: Use Go REST API to create barcodes manipulation cloud apps for handling more than 60 symbologies of 1D, 2D, and postal barcode in the cloud 
+title: Go REST API - Generate, Scan & Recognize Barcodes Image in Cloud Apps
+description: Use Go REST API to create barcodes manipulation cloud apps for handling more than 60 symbologies of 1D, 2D, and postal barcode in the cloud
 weight: 40
 url: /go
 ---
@@ -149,7 +149,7 @@ url: /go
    </div>
 
 
-   
+
    <div class="col-lg-12">
     <h2 class="h2title">
      Get Started with Barcode Processing
@@ -453,11 +453,12 @@ url: /go
 
     {{< blocks/products/pf/offers-section-item link="/barcode/curl/" imgSrc="/sdk/aspose_barcode-for-curl.svg" platform="cURL" >}}
     {{< blocks/products/pf/offers-section-item link="/barcode/net/" imgSrc="/sdk/aspose_barcode-for-net.svg" platform=".NET" >}}
-	{{< blocks/products/pf/offers-section-item link="/barcode/java/" imgSrc="/sdk/aspose_barcode-for-java.svg" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/java/" imgSrc="/sdk/aspose_barcode-for-java.svg" platform="Java" >}}
     {{< blocks/products/pf/offers-section-item link="/barcode/php/" imgSrc="/sdk/aspose_barcode-for-php.svg" platform="PHP" >}}
-	{{< blocks/products/pf/offers-section-item link="/barcode/python/" imgSrc="/sdk/aspose_barcode-for-python.svg" platform="Python" >}}
-	{{< blocks/products/pf/offers-section-item link="/barcode/nodejs/" imgSrc="/sdk/aspose_barcode-for-node.svg" platform="Node.js" >}}
-	{{< blocks/products/pf/offers-section-item link="/barcode/go/" imgSrc="/sdk/aspose_barcode-for-go.svg" platform="Go" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/python/" imgSrc="/sdk/aspose_barcode-for-python.svg" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/nodejs/" imgSrc="/sdk/aspose_barcode-for-node.svg" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/go/" imgSrc="/sdk/aspose_barcode-for-go.svg" platform="Go" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/dart/" imgSrc="/sdk/aspose_barcode-for-dart.svg" platform="Dart" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
