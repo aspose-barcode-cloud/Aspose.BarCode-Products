@@ -13,8 +13,8 @@ url: /dart
 {{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-dart.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-dart" liveDemosLink="https://products.aspose.app/barcode/family"  >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.BarCode Cloud Dart SDK has included support for numerous Barcodes related features, such as manage linear, 2D and postal barcode images, create new barcodes, existing barcodes scanning, set barcode configurations, set barcode bar height and its dimensions, manage barcode with checksum option, use multiple Barcodes on a single image,  barcode creation with code text location and many more.</p>
-<p>Aspose.BarCode Cloud Dart SDK enables programmers to recognize barcodes from stream or image file in the cloud with ease. You can generate barcode images in popular image file formats like JPEG, PNG, GIF, BMP, TIFF, EMF, WMF, EXIF, and ICON, etc. The Barcode cloud API has included support for workings with more than 60 barcode symbologies such as EAN, PDF417, UPC, QR, MicroQR, Postnet, Platnet, RM4SCC, and more.</p>
+<p>Aspose.BarCode Cloud Dart SDK provides rich barcode processing functionality including such features as generating linear, 2D, and postal barcode labels, reading barcodes from images or data streams, customizing barcode configurations, setting dimensions and the height of bars, enabling and disabling checksum controls, inserting multiple barcodes in one image,  adjusting barcode text location, and many others. You can output barcode images in popular image file formats, such as JPEG, PNG, GIF, BMP, TIFF, and SVG, etc.</p>
+<p>Aspose.BarCode Cloud Dart SDK allows programmers to recognize barcodes from a stream or an image file in cloud-based applications easily. This API supports more than 60 barcode symbologies, such as EAN, PDF417, UPC, QR Code, Micro QR Code, Postnet, Planet, RM4SCC, and many others.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -155,43 +155,43 @@ url: /dart
      Get Started with Barcode Processing
     </h2>
     <p>
-     It is easy to get started with Aspose.BarCode Cloud SDK for Dart and there is nothing to install. Simply create an account at
+     It is easy to get started working with Aspose.BarCode Cloud SDK for Dart, and there is no need to install anything. You need to create an account in
      <a href="https://dashboard.aspose.cloud/#/apps">
       Aspose for Cloud
      </a>
-     and get your application information. Once you have the App SID &amp; KEY, you are ready to give the Aspose.BarCode Cloud SDK for Dart a try on any supported platforms.
+     and obtain your application information. As soon as you get App SID &amp; KEY, you can proceed with testing Aspose.BarCode Cloud SDK for Dart on any supported platforms.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Create Barcode via Cloud Dart API
+     Create Barcodes via Cloud Dart API
     </h2>
     <p>
-     Aspose.BarCode Cloud Dart SDK enables software developers to programmatically generate barcode images inside the cloud Dart and Flutter apps. The Cloud Dart SDK offers a Non-GUI based class that facilitates developers to create Barcode images at runtime and save them to a file or to a database. You can easily integrate Barcode generation feature to some other application with just a couple of Dart commands.
+     Aspose.BarCode Cloud Dart SDK enables software developers to programmatically generate barcode images within cloud Dart and Flutter apps. This SDK offers a non-GUI class that facilitates creating barcode labels at runtime and then saving them to a file or a database. You can easily integrate barcode generation features into other applications with just a few lines of Dart commands.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Working with 2D Barcodes in Cloud
+     Work with 2D Barcodes in Cloud
     </h2>
     <p>
-     Aspose.BarCode Cloud Dart SDK allows developers to create and handle two dimensional (2D) Barcodes images in the cloud. The 2D Barcode can contain more data per label, up to thousands of characters. The great advantage is that you can store as well as encode large amounts of text and data into both one dimensional and two-dimensional barcodes. The process of creation of two-dimensional barcodes is similar to the creation of one-dimensional barcodes.
+     Aspose.BarCode Cloud Dart SDK allows developers to create and process two-dimensional (2D) barcodes in cloud environments. 2D barcodes are more complex than 1D symbologies and allow encoding large amounts of text data. 2D symbologies provide improved readability and enable data recovery in case of barcode damages. In substance, the process of generating 2D barcodes is similar to that of 1D barcode types.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Apply Checksum Validation on Barcodes
+     Enable Checksum Validation in Barcodes
     </h2>
     <p>
-     Aspose.BarCode Cloud Dart allows developers to apply checksum validation on Barcode images in the cloud. A Checksum algorithm helps is the detection of an error by including additional characters to a barcode to protect the integrity of barcode data. Although, it is not required for all kinds of Barcodes because Code128 and Code39 symbologies are self-checking and checksum is not essential; but symbologies like UPC, Code11, Standard2of5, etc. require a checksum.
+     Aspose.BarCode Cloud Dart allows developers to enable checksum validation while working with barcodes in cloud-based applications. Checksum algorithms are used to identify errors and incorrectly decoded barcode data by including additional digits, in this way, protecting data integrity. Checksum validation may be optional for some barcode standards. For example, Code 128 and Code 39 are self-checking symbologies and do not require checksum verification. Other symbologies, such as UPC, Code 11, Standard 2-of-5, and others, require obligatory checksum controls.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Multiple Barcodes Generation on Single Image
+     Generate Multiple Barcodes in Single Image
     </h2>
     <p>
-     Aspose.BarCode Cloud Dart SDK has provided capabilities that enable programmers to produce multiple Barcodes on a single image in the cloud via Python REST API. Programmers can include various types of barcodes such as UPCA, UPCE, Code128, MSI, ISBN, ISMN, ISSN, postal, QR, PDF417, EAN-13, EAN-8, Code 39, GS1 and so on.
+     Aspose.BarCode Cloud Dart SDK provides the capability to insert multiple barcode labels into a single image via Python REST API within cloud applications. Programmers can add different barcode types, such as UPC A, UPC E, Code 128, MSI, ISBN, ISMN, ISSN, QR Code, PDF417, EAN 13, EAN 8, Code 39, postal symbologies, and many others.
     </p>
    </div>
    <div class="col-lg-12">
@@ -199,7 +199,7 @@ url: /dart
      Supported Barcode Symbologies
     </h2>
     <p>
-     Aspose.BarCode Cloud SDK for Dart supports a large number of linear, 2D, and Postal barcode symbologies. Furthermore, Aspose.BarCode Cloud SDK for Dart supports more than 60 Barcode symbologies.
+     Aspose.BarCode Cloud SDK for Dart supports various linear, 2D, and postal barcode types, including 60+ barcode symbologies.
     </p>
     <p>
      Supported linear barcode symbologies are:

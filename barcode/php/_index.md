@@ -13,8 +13,7 @@ url: /php
 {{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-php.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-php" liveDemosLink="https://products.aspose.app/barcode/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>You can make new barcodes and configure barcode properties as per your business requirements. Aspose.BarCode Cloud SDK for PHP, also allows you to set physical attributes, such as, barcode dimensions, resolution, margin and display angle. You can generate auto-sized barcodes or by specifying exact dimensions. The barcode text location can also be provided to control the barcode location.</p>
-<p>Support for single or multiple barcode generation is also available. You can also set height of bars in the barcode and read barcodes by image processing algorithms.</p>
+<p>You can create new barcodes configuring their properties according to your business requirements. Aspose.BarCode Cloud SDK for PHP also allows customizing various barcode attributes, such as dimensions, resolution, margins, display angle, color, appearance-related properties, and others. You can generate auto-sized barcodes or specify exact size dimensions. Specific parameters, such as barcode text location or the height of bars, can be adjusted as well. It is possible to create one or multiple barcodes in a single image.  Moreover, Aspose.BarCode Cloud SDK for PHP allows scanning and reading barcodes of various symbologies at any rotation angle using image processing algorithms.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -173,11 +172,11 @@ url: /php
      Get Started with Barcode Processing
     </h2>
     <p>
-     It is easy to get started with Aspose.BarCode Cloud SDK for PHP and there is nothing to install. Simply create an account at
+     Aspose.BarCode Cloud SDK for PHP does not require installing any packages and is easy to use. To start working, you can simply create an account in
      <a href="https://dashboard.aspose.cloud/#/apps">
       Aspose for Cloud
      </a>
-     and get your application information. Once you have the App SID &amp; KEY, you are ready to give the Aspose.BarCode Cloud SDK for PHP a try on any supported platforms.
+     and get your application information. Once you get App SID &amp; KEY, you are ready to test Aspose.BarCode Cloud SDK for PHP on any of the supported platforms.
     </p>
     <!-- <div id="code" class="codeblock">
 
@@ -194,7 +193,7 @@ url: /php
      Supported Barcode Symbologies
     </h2>
     <p>
-     Aspose.BarCode Cloud SDK for PHP supports large number of linear, 2D and Postal barcode symbologies. Furthermore, Aspose.BarCode Cloud SDK for PHP supports more than 60 Barcode symbologies.
+     Aspose.BarCode Cloud SDK for PHP supports multiple linear, 2D, and postal barcode symbologies. It allows generating and reading barcodes corresponding to 60+ barcode types.
     </p>
     <p>
      Supported linear barcode symbologies are:

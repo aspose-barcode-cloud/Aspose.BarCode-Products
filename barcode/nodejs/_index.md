@@ -13,9 +13,9 @@ url: /nodejs
 {{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-node.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-node" liveDemosLink="https://products.aspose.app/barcode/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Use Aspose.BarCode Cloud SDK for Node.js, to rapidly develop cloud based node.js barcode generator and scanner applications. Our easy-to-use barcode REST API helps you manipulate and process, generate, recognize and convert 1D (EAN, UPC, Codabar, GS1), 2D (Macro PDF417, Micro PDF417, QR) and postal (Postnet, Planet, RM4SCC) barcodes for more than 60 barcode symbologies.</p>
-<p>Moreover, our Node.js barcode extractor SDK, helps you configure and set various properties of barcodes. You can set barcode image resolution, its quality, margins, and dimensions. You can specify height of bars in the barcode, the rotation angle of the barcode or generate barcode with exact location of the text.</p>
-<p>Aspose.BarCode Cloud SDK for Node.js, lets you recognize multiple barcodes from an image as well as pick barcode from a particular portion of an image, using image processing algorithms.</p>
+<p>Aspose.BarCode Cloud SDK for Node.js can be used to rapidly develop cloud-based node.js barcode generation and scanning applications. This easy-to-use barcode REST API allows developers to manipulate, process, generate, recognize, and convert 1D (e.g. EAN, UPC, and Codabar), 2D (e.g. Macro PDF417, Micro PDF417, and QR Code), and postal (e.g. Postnet, Planet, and RM4SCC) barcode types, including more than 60 most widely used symbologies.</p>
+<p>Moreover, Aspose.BarCode Cloud SDK for Node.js enables configuring various properties of barcodes to be generated according to specific business needs. It is possible to adjust barcode image resolution, its quality, margins, and dimensions. Moreover, you can customize the height of bars in barcodes, rotation angle, or barcode text location.</p>
+<p>Aspose.BarCode Cloud SDK for Node.js provides the capability to recognize all barcodes potentially presented in an image or scan a particular region of an image using image processing algorithms.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -174,11 +174,11 @@ url: /nodejs
      Get Started with Barcode Processing
     </h2>
     <p>
-     It is easy to get started with Aspose.BarCode Cloud SDK for Node.js and there is nothing to install. Simply create an account at
+     Using Aspose.BarCode Cloud SDK for Node.js does not require anything to be installed and is easy to try. You simply need to create an account in
      <a href="https://dashboard.aspose.cloud/#/apps">
       Aspose for Cloud
      </a>
-     and get your application information. Once you have the App SID &amp; KEY, you are ready to give the Aspose.BarCode Cloud SDK for Node.js a try on any supported platforms.
+     and receive your application information. As soon as you have App SID &amp; KEY, you can start working with Aspose.BarCode Cloud SDK for Node.js on any supported platforms.
     </p>
     <!-- <div id="code" class="codeblock">
 
@@ -195,7 +195,7 @@ url: /nodejs
      Supported Barcode Symbologies
     </h2>
     <p>
-     Aspose.BarCode Cloud SDK for Node.js supports large number of linear, 2D and Postal barcode symbologies. Furthermore, Aspose.BarCode Cloud SDK for Node.js supports more than 60 Barcode symbologies.
+     Aspose.BarCode Cloud SDK for Node.js enables the use of various linear, 2D, and postal symbologies. Specifically, it supports more than 60 different barcode types.
     </p>
     <p>
      Supported linear barcode symbologies are:

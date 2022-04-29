@@ -13,8 +13,8 @@ url: /python
 {{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-python.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-php" liveDemosLink="https://products.aspose.app/barcode/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.BarCode Cloud Python SDK is a Barcode management Cloud based SDK that enables software developers to develop barcode processing applications using Python cloud API. The cloud API supports working with linear, 2D, and postal barcode creation, modification, and recognition in the cloud. It allows producing barcode images in some of the popular image file formats, such as JPEG, PNG, GIF, BMP, TIFF, EMF, WMF, EXIF, and ICON.</p>
-<p>Aspose.BarCode Cloud Python SDK supports a wide arrange of features for generating, reading and manipulating BarCode images in the cloud, such as specify image width, height, border style, and output image format as well as setting barcode attributes like font style, font color, background color, barcode type, and the barcode text location. The API allows recognizing barcodes from stream or image files with a couple of lines of Python code.</p>
+<p>Aspose.BarCode Cloud Python SDK is a cloud-based SDK for barcode management that enables software developers to create barcode processing applications using cloud Python API. This SDK allows working with linear, 2D, and postal barcodes, namely, performing barcode generation, modification, and recognition in cloud environments. It enables producing barcode images in several most used image file formats, such as JPEG, PNG, GIF, BMP, TIFF, and SVG.</p>
+<p>Aspose.BarCode Cloud Python SDK provides a wide range of features to generate, read and manipulate barcode images in the cloud. It allows specifying the image width, height, border style, and output image format, as well as customizing various barcode attributes, such as font style, font color, background color, barcode type, and barcode text location. Moreover, Aspose.BarCode Cloud Python SDK enables recognizing barcodes from stream or image files. Required barcode processing functionality can be implemented with a few lines of Python code.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -172,11 +172,11 @@ url: /python
      Get Started with Barcode Processing
     </h2>
     <p>
-     It is easy to get started with Aspose.BarCode Cloud SDK for Python and there is nothing to install. Simply create an account at
+     It is easy to get started working with Aspose.BarCode Cloud SDK for Python as there is no need to install any additional packages. Developers need to simply create an account in
      <a href="https://dashboard.aspose.cloud/#/apps">
       Aspose for Cloud
      </a>
-     and get your application information. Once you have the App SID &amp; KEY, you are ready to give the Aspose.BarCode Cloud SDK for Python a try on any supported platforms.
+     and get application information. Once App SID &amp; KEY is available, developers can start working with Aspose.BarCode Cloud SDK for Python on any of the supported platforms.
     </p>
    </div>
    <div class="col-lg-12">
@@ -184,31 +184,23 @@ url: /python
      Barcode Generation in Cloud Python Apps
     </h2>
     <p>
-     Aspose.BarCode Cloud Python SDK has provided functionality for generating barcode images and storing it on it on Aspose Cloud Storage with just a couple of Python commands. You need to set the barcode file name created on the server and Text to encode inside the barcode. After that, you can provide Barcode symbology and set generated Barcode image format along with the width and height of the barcode unit. You can also set Angle of barcode orientation as well as margin of image border, barcode's size, and more.
+     Aspose.BarCode Cloud SDK for Python provides functionality to generate barcode images and store them in Aspose Cloud Storage with just a few lines of Python commands. First, you need to set the name of a barcode file created on the server and insert the input text to encode in a barcode. After that, you can specify the target barcode symbology and define the required barcode image format along with the width and height of the barcode label. You can also set various barcode properties, such as the barcode orientation angle, image border margins, barcode size, and others.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Recognize Barcode Symbology in Cloud
+     Barcode Recognition in Cloud Python Apps
     </h2>
     <p>
-     Aspose.BarCode Cloud Python SDK has included support for recognizing Barcode symbology inside cloud based applications. The BarCodeReader class has included methods for recognizing the barcodes from the image.  Sometimes it’s required to use multiple barcodes in a single image. The cloud Barcode API allows to recognize multiple barcodes of the supported symbology types inside Python apps.
+     Aspose.BarCode Cloud Python SDK enables barcode recognition within cloud-based applications. Class BarCodeReader provides various methods to read barcodes from images in Python applications. Moreover, it allows detecting and decoding multiple barcodes in a single image. This API supports recognizing various barcode symbologies within Python applications.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Create Multiple Barcodes on Single Image
+     Generate Many Barcodes in Single Image
     </h2>
     <p>
-     Aspose.BarCode Cloud Python SDK gives software developers the capability to generate multiple barcodes on a single image in the cloud with just a couple of lines of Python code. You can include multiple types of barcodes such as postal, QR, PDF417, EAN-13, EAN-8, Code 39, Code128, ISBN, MSI, GS1, and many more. You can easily encode and decode all the supported Barcode symbologies in your cloud apps.
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Import &amp; Export Barcodes to XML
-    </h2>
-    <p>
-     Aspose.BarCode Cloud Python SDK has included complete support for XML code and allows developers to import &amp; export barcodes to XML in the cloud with ease. You can assign different Barcode properties such as setting width or height, barcode Symbology, etc. and export these properties to XML file. You can also import barcode properties from XML with ease.
+     Aspose.BarCode Cloud Python SDK gives the capability to generate one or multiple barcodes in a single image in cloud environments with just a few lines of Python code. It supports various barcode types, such as QR Code, PDF417, EAN 13, EAN 8, Code 39, Code 128, ISBN, MSI, GS1, postal symbologies, and many others. You can easily encode and decode barcodes of all supported symbologies within your cloud-based applications.
     </p>
    </div>
    <div class="col-lg-12">
@@ -227,7 +219,7 @@ url: /python
      Supported Barcode Symbologies
     </h2>
     <p>
-     Aspose.BarCode Cloud SDK for Python supports a large number of linear, 2D, and Postal barcode symbologies. Furthermore, Aspose.BarCode Cloud SDK for Python supports more than 60 Barcode symbologies.
+     Aspose.BarCode Cloud SDK for Python supports 60+ linear, 2D, and postal barcode symbologies.
     </p>
     <p>
      Supported linear barcode symbologies are:
