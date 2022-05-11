@@ -13,8 +13,8 @@ url: /curl
 {{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-curl.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud" liveDemosLink="https://products.aspose.app/barcode/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.BarCode Cloud for cURL helps you build cloud-based barcode generator, barcode reader, and barcode scanner applications using simple cURL commands. It supports more than 60 barcode symbologies of 1D (linear), 2D, and postal barcode types. Using Aspose.BarCode Cloud for cURL, you can identify barcode type, read barcode from image using image processing, and configure barcode properties, such as, its dimensions along X and Y axis, barcode angle and barcode image resolution.</p>
-<p>Aspose.BarCode Cloud for cURL also allows you to set bar height of the barcode, set barcode image format as well as supports barcode recognition via checksum option. You can generate multiple barcodes in on go.</p>
+<p>Aspose.BarCode Cloud for cURL enables you to build cloud-based barcode processing applications with the generation, recognition, and scanning functionality using simple cURL commands. It supports more than 60 barcode symbologies, including 1D (linear), 2D, and postal barcode types. Using Aspose.BarCode Cloud for cURL, you can specify target barcode types, read barcodes from images, and configure barcode image properties, such as X and Y dimensions, orientation angle, image resolution, and many others.</p>
+<p>Aspose.BarCode Cloud for cURL also allows you to customize various barcode parameters, such as the height of bars, image format, and checksum controls. You can generate multiple barcodes in a quick and simple way.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -88,84 +88,84 @@ url: /curl
     <em class="fa fa-barcode ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Generate and read 1D (linear), 2D &amp; postal barcodes
+     Generate and read 1D (linear), 2D, and postal barcodes
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Set Barcode image resolution, angle, height, width, quality &amp; margin
+     Set barcode image resolution, angle, height, width, quality, and margin
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-signal ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Set auto-size option or specify X and Y dimensions of barcode
+     Set the auto-size option or specify X and Y dimensions of a barcode
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-qrcode ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Generate barcode with appropriate code text location
+     Generate barcodes with appropriate barcode text locations
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-refresh ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Set height of bars &amp; rotate barcode image at an angle
+     Set the height of bars and rotate barcode images at any angle
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Specify barcode image format and generate multiple barcodes
+     Specify the desired barcode image format
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Recognize any or all barcodes or on specific region of image
+     Recognize any or all barcodes in a specific region of an image
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-html5 ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Read barcode from local/external image or from request body
+     Read barcodes from local/external images or streams
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-puzzle-piece ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Generate and recognize barcode with checksum option
+     Generate and recognize barcodes with checksum verification
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-barcode ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Read barcodes via applying image processing algorithms
+     Read barcodes by applying image processing algorithms
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Generate &amp; read barcode on Aspose cloud storage
+     Generate and read barcodes in Aspose Cloud Storage
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-signal ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Generate barcode to fetch as image stream or save to local disk
+     Generate barcodes and save them as image streams or files in various formats
     </p>
    </div>
    <div class="col-lg-12">
@@ -173,11 +173,11 @@ url: /curl
      Get Started with Barcode Processing
     </h2>
     <p>
-     It is easy to get started with Aspose.BarCode Cloud for cURL and there is nothing to install. Simply create an account at
+     It is easy to get started with Aspose.BarCode Cloud for cURL, and there is no need to install anything. To start working with it, you can simply create an account in
      <a href="https://dashboard.aspose.cloud/#/apps">
       Aspose for Cloud
      </a>
-     and get your application information. Once you have the App SID &amp; KEY, you are ready to give the Aspose.BarCode Cloud for cURL a try on any supported platforms.
+     and get your application information. As soon as you get App SID &amp; KEY, you are ready to use Aspose.BarCode Cloud for cURL on any of the supported platforms.
     </p>
    </div>
    <div class="col-lg-12">
@@ -185,7 +185,7 @@ url: /curl
      Supported Barcode Symbologies
     </h2>
     <p>
-     Aspose.BarCode Cloud for cURL supports large number of linear, 2D and Postal barcode symbologies. Furthermore, Aspose.BarCode Cloud for cURL supports more than 60 Barcode symbologies.
+     Aspose.BarCode Cloud for cURL supports a large variety of widely used linear, 2D, and postal barcode symbologies, including more than 60 barcode types.
     </p>
     <p>
      Supported linear barcode symbologies are:
@@ -313,7 +313,7 @@ url: /curl
      </ul>
     </div>
     <p>
-     Supported 2D barcode symbologies are:
+     Supported 2D barcode types are:
     </p>
     <div class="col-lg-6">
      <ul class="unstyled">
@@ -363,7 +363,7 @@ url: /curl
      </ul>
     </div>
     <p>
-     Supported postal barcode symbologies are:
+     Supported postal barcode standards are:
     </p>
     <div class="col-lg-6">
      <ul class="unstyled">

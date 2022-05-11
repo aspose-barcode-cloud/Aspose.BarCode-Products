@@ -13,8 +13,8 @@ url: /go
 {{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-go.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-go" liveDemosLink="https://products.aspose.app/barcode/family"  >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.BarCode Cloud Go SDK has included support for numerous Barcodes related features, such as manage linear, 2D and postal barcode images, create new barcodes, existing barcodes scanning, set barcode configurations, set barcode bar height and its dimensions, manage barcode with checksum option, use multiple Barcodes on a single image,  barcode creation with code text location and many more.</p>
-<p>Aspose.BarCode Cloud Go SDK enables programmers to recognize barcodes from stream or image file in the cloud with ease.  You can generate barcode images in popular image file formats like JPEG, PNG, GIF, BMP, TIFF, EMF, WMF, EXIF, and ICON, etc. The Barcode cloud API has included support for workings with more than 60 barcode symbologies such as EAN, PDF417, UPC, QR, MicroQR, Postnet, Platnet, RM4SCC, and more.</p>
+<p>Aspose.BarCode Cloud Go SDK enables numerous barcode processing features, such as supporting linear, 2D, and postal symbologies, creating new barcodes, scanning barcodes, setting barcode configurations, defining barcode dimensions and the height of bars, managing barcodes with checksum controls, inserting multiple barcodes into a single image, specifying barcode text location, and many others.</p>
+<p>Aspose.BarCode Cloud Go SDK enables programmers to read barcodes from a stream or an image file in cloud-based applications with ease. You can output barcode images in several widely used image file formats, such as JPEG, PNG, GIF, BMP, TIFF, and SVG. This API supports more than 60 symbologies, such as EAN, PDF417, UPC, QR Code, Micro QR Code, Postnet, Planet, RM4SCC, and others.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -155,43 +155,43 @@ url: /go
      Get Started with Barcode Processing
     </h2>
     <p>
-     It is easy to get started with Aspose.BarCode Cloud SDK for Go and there is nothing to install. Simply create an account at
+     Aspose.BarCode Cloud SDK for Go can be easily launched as it does not require to install anything. You can simply create an account in
      <a href="https://dashboard.aspose.cloud/#/apps">
       Aspose for Cloud
      </a>
-     and get your application information. Once you have the App SID &amp; KEY, you are ready to give the Aspose.BarCode Cloud SDK for Go a try on any supported platforms.
+     and obtain your application information. As soon as you get App SID &amp; KEY, you can start working with Aspose.BarCode Cloud SDK for Go on any of the supported platforms.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Create Barcode via Cloud Go API
+     Create Barcodes via Cloud Go API
     </h2>
     <p>
-     Aspose.BarCode Cloud Go SDK enables software developers to programmatically generate barcode images inside the cloud Go apps. The Cloud Go SDK offers a Non-GUI based class that facilitates developers to create Barcode images at runtime and save them to a file or to a database. You can easily integrate Barcode generation feature to some other application with just a couple of Go commands.
+     Aspose.BarCode Cloud Go SDK enables software developers to programmatically generate barcode images within cloud-based Go applications. Aspose.BarCode Cloud Go SDK offers a non-GUI class that facilitates creating barcode images at runtime and then saving them to a file or a database. You can easily integrate barcode generation features to other applications with just a few lines of Go commands.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Working with 2D Barcodes in Cloud
+     Work with 2D Barcodes in Cloud
     </h2>
     <p>
-     Aspose.BarCode Cloud Go SDK allows developers to create and handle two dimensional (2D) Barcodes images in the cloud. The 2D Barcode can contain more data per label, up to thousands of characters. The great advantage is that you can store as well as encode large amounts of text and data into both one dimensional and two-dimensional barcodes. The process of creation of two-dimensional barcodes is similar to the creation of one-dimensional barcodes.
+     Aspose.BarCode Cloud Go SDK allows developers to create and process two-dimensional (2D) barcode images in cloud environments. 2D barcodes can contain more data per label compared with 1D barcodes, namely, up to thousands of characters. The great advantage of 2D barcodes is that they can encode and store large amounts of text and data. The process of generating 2D barcodes is similar to that of 1D symbologies.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Apply Checksum Validation on Barcodes
+     Apply Checksum Validation for Barcodes
     </h2>
     <p>
-     Aspose.BarCode Cloud Go allows developers to apply checksum validation on Barcode images in the cloud. A Checksum algorithm helps is the detection of an error by including additional characters to a barcode to protect the integrity of barcode data. Although, it is not required for all kinds of Barcodes because Code128 and Code39 symbologies are self-checking and checksum is not essential; but symbologies like UPC, Code11, Standard2of5, etc. require a checksum.
+     Aspose.BarCode Cloud Go allows generating barcodes with checksum controls and performing checksum validation while decoding barcode images in cloud-based applications. Checksum algorithms are intended to detect errors by including additional characters that allow protecting the integrity of barcode data. It should be noted that for particular symbologies, adding checksum is not obligatory and can be omitted. For example, Code 128 and Code 39 symbologies are self-checking and do not require checksum controls; however, symbologies like UPC, Code 11, Standard 2-of-5, and some others require obligatory checksum calculation.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Multiple Barcodes Generation on Single Image
+     Add Multiple Barcodes to Single Image
     </h2>
     <p>
-     Aspose.BarCode Cloud Go SDK has provided capabilities that enable programmers to produce multiple Barcodes on a single image in the cloud via Python REST API. Programmers can include various types of barcodes such as UPCA, UPCE, Code128, MSI, ISBN, ISMN, ISSN, postal, QR, PDF417, EAN-13, EAN-8, Code 39, GS1 and so on.
+     Aspose.BarCode Cloud Go SDK provides the capability to add multiple barcodes to a single image in cloud-based applications via Python REST API. Programmers can include barcodes of various barcode types, such as UPCA, UPCE, Code128, MSI, ISBN, ISMN, ISSN, QR Codes, PDF417, EAN 13, EAN 8, Code 39, postal symbologies, and many others.
     </p>
    </div>
    <div class="col-lg-12">
@@ -199,7 +199,7 @@ url: /go
      Supported Barcode Symbologies
     </h2>
     <p>
-     Aspose.BarCode Cloud SDK for Go supports a large number of linear, 2D, and Postal barcode symbologies. Furthermore, Aspose.BarCode Cloud SDK for Go supports more than 60 Barcode symbologies.
+     Aspose.BarCode Cloud SDK for Go supports 60+ linear, 2D, and postal barcode symbologies.
     </p>
     <p>
      Supported linear barcode symbologies are:
