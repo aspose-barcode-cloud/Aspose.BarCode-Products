@@ -6,7 +6,7 @@ pushd "$(dirname "$0")/../submodules/"
 
 # Check if the repository already exists
 if [ ! -d "products.aspose.cloud" ]; then
-  echo "Cloning products.aspose.cloud repository..."
+  echo "Cloning sparse repository..."
   git clone --depth 1 --filter=blob:none --sparse git@github.com:aspose-cloud/products.aspose.cloud.git
   pushd "products.aspose.cloud"
   # Switch sparse-checkout to non-cone mode (needed for single files)
@@ -15,6 +15,8 @@ if [ ! -d "products.aspose.cloud" ]; then
   git sparse-checkout set \
     archetypes/ \
     assets/ \
+    data/ \
+    static/ \
     themes/lutsk-aspose-theme-sdks-aspose-cloud/ \
     config-prod.toml
 else
