@@ -1,0 +1,13 @@
+{
+  "name": "barcode-cloud-landings",
+  "author": "Denis Averin",
+  "description": "Landing pages for BarCode Cloud",
+  "homepage": "https://products.aspose.cloud/barcode/",
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss-cli": "^11.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
