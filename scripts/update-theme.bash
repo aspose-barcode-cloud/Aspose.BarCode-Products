@@ -25,11 +25,13 @@ else
   echo "Pulling latest changes..."
   git pull
 fi
-
-echo "Sparse checkout includes:"
-git sparse-checkout list
-
+# echo "Sparse checkout includes:"
+# git sparse-checkout list
 # You are in a sparse checkout with 1% of tracked files present.
+
+# Copy static content from submodule to main site
+# Hugo does not support symlinks for static content
+cp -r static/* ../../static/
 
 popd
 popd
