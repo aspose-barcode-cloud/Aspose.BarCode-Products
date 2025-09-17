@@ -29,9 +29,10 @@ fi
 # git sparse-checkout list
 # You are in a sparse checkout with 1% of tracked files present.
 
-# Copy static content from submodule to main site
-# Hugo does not support symlinks for static content
+# Copy static and data content from submodule to main site
+# Hugo does not support symlinks for this
 cp -r static/* ../../static/
+cp -r data/* ../../data/
 
 popd
 popd
