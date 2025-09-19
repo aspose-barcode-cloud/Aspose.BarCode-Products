@@ -11,8 +11,11 @@ if [ ! -d "products.aspose.cloud" ]; then
   pushd "products.aspose.cloud"
   # Switch sparse-checkout to non-cone mode (needed for single files)
   git sparse-checkout init --no-cone
-  # Enable sparse checkout for just your directory and files by pattern config-prod.toml
-  git sparse-checkout set "$(git ls-tree --name-only HEAD | grep -v '^content$')"
+  # Enable sparse checkout for all except heavy dir with /content/
+  # And also add "/content/barcode/"
+  git sparse-checkout set \
+    $(git ls-tree --name-only HEAD | grep -v '^content$') \
+    /content/barcode/
 else
   echo "products.aspose.cloud repository already exists."
   pushd "products.aspose.cloud"
