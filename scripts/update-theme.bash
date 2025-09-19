@@ -15,8 +15,8 @@ if [ ! -d "products.aspose.cloud" ]; then
   # And also add "/content/barcode/"
   git sparse-checkout set \
     $(git ls-tree --name-only HEAD | grep -v '^content$') \
-    /content/barcode/ \
-    /content/_index.md
+    content/barcode/ \
+    content/_index.md
 else
   echo "products.aspose.cloud repository already exists."
   pushd "products.aspose.cloud"

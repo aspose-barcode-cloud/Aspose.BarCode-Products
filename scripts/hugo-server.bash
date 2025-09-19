@@ -10,6 +10,7 @@ HUGO_THEMES_DIR="./themes/"
 
 # HUGO_BASE_URL="https://aspose.test"
 HUGO_BASE_URL="https://products.aspose.cloud"
+FILE_TO_CHECK="public/barcode/index.html"
 
 # Go to content directory
 pushd "$(dirname "$0")/.."
@@ -26,6 +27,16 @@ hugo \
   --themesDir "${HUGO_THEMES_DIR}" \
   --minify \
   --clock "2025-09-19T12:00:00Z"
+
+echo
+echo "Checking generated site in public/ ..."
+if [ -f "${FILE_TO_CHECK}" ]; then
+  echo "OK file ${FILE_TO_CHECK} exists."
+  echo
+else
+  echo "Error: ${FILE_TO_CHECK} does not exist!"
+  exit 1
+fi
 
 echo "Starting Hugo server..."
 hugo server \
