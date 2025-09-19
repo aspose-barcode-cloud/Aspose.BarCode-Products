@@ -3,24 +3,29 @@ set -euo pipefail
 
 HUGO_CONTENT_DIR="content"
 
-HUGO_CONFIG="./submodules/products.aspose.cloud/config-prod.toml"
-HUGO_THEMES_DIR="./submodules/products.aspose.cloud/themes/"
+# HUGO_CONFIG="./submodules/products.aspose.cloud/config-prod.toml"
+HUGO_CONFIG="./config-prod.toml"
+# HUGO_THEMES_DIR="./submodules/products.aspose.cloud/themes/"
+HUGO_THEMES_DIR="./themes/"
 
-HUGO_BASE_URL="https://aspose.test"
+# HUGO_BASE_URL="https://aspose.test"
+HUGO_BASE_URL="https://products.aspose.cloud"
 
 # Go to content directory
 pushd "$(dirname "$0")/.."
 
 # See https://github.com/aspose-cloud/products.aspose.cloud-workflows/blob/main/.github/workflows/barcode-production.yml
+./scripts/change-urls.bash "${HUGO_CONTENT_DIR}"
+
 echo "Building site with Hugo..."
 hugo \
-  --baseURL="${HUGO_BASE_URL}" \
-  --cleanDestinationDir \
   --config "${HUGO_CONFIG}" \
   --contentDir "${HUGO_CONTENT_DIR}" \
-  --ignoreCache \
+  --baseURL="${HUGO_BASE_URL}" \
+  --cleanDestinationDir \
   --themesDir "${HUGO_THEMES_DIR}" \
-  --verbose
+  --minify \
+  --clock "2025-09-19T12:00:00Z"
 
 echo "Starting Hugo server..."
 hugo server \
