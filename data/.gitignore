@@ -1,0 +1,4 @@
+# This /static/ dir will be created and updated with /scripts/update-theme.bash
+# from the submodule of large products.aspose.cloud
+*
+!.gitignore
