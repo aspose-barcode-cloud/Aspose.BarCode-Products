@@ -5,9 +5,11 @@
   "homepage": "https://products.aspose.cloud/barcode/",
   "devDependencies": {
     "autoprefixer": "^10.4.21",
+    "npm-check-updates": "^18.3.0",
     "postcss-cli": "^11.0.1"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node -e \"const fs=require('fs');const {execSync}=require('child_process');const required=fs.readFileSync('.hugo_version','utf8').trim();const installed=execSync('hugo version').toString().match(/v[\\d.]+/)[0].slice(1);if (required === installed) { console.log(`Installed Hugo version ${installed} is OK.`); } else throw new Error(`Installed Hugo version mismatch: required ${required}, but found ${installed}`);\"",
+    "check-updates": "ncu -u --enginesNode"
   }
 }
