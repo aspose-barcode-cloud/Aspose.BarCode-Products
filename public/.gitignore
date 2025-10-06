@@ -1,4 +1,3 @@
-# This /static/ dir will be created and updated with /scripts/update-sparse-repo.bash
-# from the sparse copy of large products.aspose.cloud
+# Ignore hugo generated files
 *
 !.gitignore
