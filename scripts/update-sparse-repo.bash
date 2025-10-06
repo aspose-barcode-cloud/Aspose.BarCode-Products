@@ -1,14 +1,16 @@
 #!/bin/bash
 set -euo pipefail
 
-# Go to submodules directory
-pushd "$(dirname "$0")/../submodules/"
+SPARSE_REPO_NAME="products.aspose.cloud-sparse"
+
+# Go to sparse-repo directory
+pushd "$(dirname "$0")/../sparse-repo/"
 
 # Check if the repository already exists
-if [ ! -d "products.aspose.cloud" ]; then
+if [ ! -d "${SPARSE_REPO_NAME}" ]; then
   echo "Cloning sparse repository..."
-  git clone --depth 1 --filter=blob:none --sparse git@github.com:aspose-cloud/products.aspose.cloud.git
-  pushd "products.aspose.cloud"
+  git clone --depth 1 --filter=blob:none --sparse git@github.com:aspose-cloud/products.aspose.cloud.git "${SPARSE_REPO_NAME}"
+  pushd "${SPARSE_REPO_NAME}"
   # Switch sparse-checkout to non-cone mode (needed for single files)
   git sparse-checkout init --no-cone
   # Enable sparse checkout for all except heavy dir with /content/
@@ -18,8 +20,8 @@ if [ ! -d "products.aspose.cloud" ]; then
     content/barcode/ \
     content/_index.md
 else
-  echo "products.aspose.cloud repository already exists."
-  pushd "products.aspose.cloud"
+  echo "${SPARSE_REPO_NAME} repository already exists."
+  pushd "${SPARSE_REPO_NAME}"
   echo "Pulling latest changes..."
   git pull
 fi
@@ -27,7 +29,7 @@ fi
 # git sparse-checkout list
 # You are in a sparse checkout with 1% of tracked files present.
 
-# Copy static and data content from submodule to main site
+# Copy /static/ and /data/ content from sparse repo to main site
 # Hugo does not support symlinks for this
 cp -r static/* ../../static/
 cp -r data/* ../../data/

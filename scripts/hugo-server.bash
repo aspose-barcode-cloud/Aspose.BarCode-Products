@@ -3,9 +3,7 @@ set -euo pipefail
 
 HUGO_CONTENT_DIR="content"
 
-# HUGO_CONFIG="./submodules/products.aspose.cloud/config-prod.toml"
 HUGO_CONFIG="./config-prod.toml"
-# HUGO_THEMES_DIR="./submodules/products.aspose.cloud/themes/"
 HUGO_THEMES_DIR="./themes/"
 
 # HUGO_BASE_URL="https://aspose.test"
