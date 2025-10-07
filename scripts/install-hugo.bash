@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# Go to content directory
+# Go to project root directory
 pushd "$(dirname "$0")/.."
 
 # Extended build (for SCSS/SASS)

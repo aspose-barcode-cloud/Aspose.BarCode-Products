@@ -1,7 +1,7 @@
 #!/bin/bash
 set -euo pipefail
 
-SPARSE_REPO_NAME="products.aspose.cloud-sparse"
+SPARSE_REPO_NAME="products.aspose.cloud"
 
 # Go to sparse-repo directory
 pushd "$(dirname "$0")/../sparse-repo/"
@@ -31,7 +31,9 @@ fi
 
 # Copy /static/ and /data/ content from sparse repo to main site
 # Hugo does not support symlinks for this
+echo "copying to /static/ ..."
 cp -r static/* ../../static/
+echo "copying to /data/ ..."
 cp -r data/* ../../data/
 
 popd

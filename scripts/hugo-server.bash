@@ -8,13 +8,13 @@ HUGO_THEMES_DIR="./themes/"
 
 # HUGO_BASE_URL="https://aspose.test"
 HUGO_BASE_URL="https://products.aspose.cloud"
-FILE_TO_CHECK="public/barcode/index.html"
+FILE_TO_CHECK="./public/barcode/index.html"
 
-# Go to content directory
+# Go to project root directory
 pushd "$(dirname "$0")/.."
 
 # See https://github.com/aspose-cloud/products.aspose.cloud-workflows/blob/main/.github/workflows/barcode-production.yml
-./scripts/change-urls.bash "${HUGO_CONTENT_DIR}"
+./scripts/change-barcode-urls.bash
 
 echo "Building site with Hugo..."
 hugo \
