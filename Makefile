@@ -1,7 +1,10 @@
 SPARSE_REPO = ./sparse-repo/products.aspose.cloud
 
+.PHONY: init
+init: update-sparse-repo links
+
 .PHONY: links
-links: update-sparse-repo remove-broken-links
+links: remove-broken-links
 	ln -sv "$(SPARSE_REPO)/archetypes" | true
 	ln -sv "$(SPARSE_REPO)/assets" | true
 	ln -sv "$(SPARSE_REPO)/themes" | true
