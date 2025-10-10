@@ -2,6 +2,7 @@ SPARSE_REPO = ./sparse-repo/products.aspose.cloud
 
 .PHONY: init
 init: update-sparse-repo links
+	npm ci
 
 .PHONY: links
 links: remove-broken-links
