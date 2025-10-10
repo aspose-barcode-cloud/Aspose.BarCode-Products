@@ -2,7 +2,6 @@
 title: Create, Edit & Recognize 1D, 2D & Postal Barcodes via Python REST API
 description: Develop Python cloud applications for generating, scanning, processing, recognizing, and configuring 1D, 2D & postal barcodes for 60+ symbologies
 weight: 90
-url: /python
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

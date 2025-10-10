@@ -2,7 +2,6 @@
 title: Go REST API - Generate, Scan & Recognize Barcodes Image in Cloud Apps
 description: Use Go REST API to create barcodes manipulation cloud apps for handling more than 60 symbologies of 1D, 2D, and postal barcode in the cloud
 weight: 40
-url: /go
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

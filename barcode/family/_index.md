@@ -2,11 +2,10 @@
 title: REST Barcode Generator & Reader API (1D, 2D & Postal Barcodes)
 description: Cloud SDKs to generate, read and convert UPC, QR, GS1, EAN and 60+ types of 1D, 2D and Postal barcodes on multiple development platforms
 weight: 10
-url: /family
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Build Barcode Generator & Reader Cloud Apps" h2="Cloud SDKs to generate, read and convert UPC, QR, GS1, EAN and 60+ types of 1D, 2D and Postal barcodes on multiple development platforms." logoImageSrc="/headers/aspose_barcode.svg" pfName="Aspose.BarCode" downloadUrl="" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Build Barcode Generator & Reader Cloud Apps" h2="Cloud SDKs to generate, read and convert UPC, QR, GS1, EAN and 60+ types of 1D, 2D and Postal barcodes on multiple development platforms." logoImageSrc="/headers/aspose_barcode.svg" pfName="Aspose.BarCode" downloadUrl="" tryOnlineUrl="" gtm_class="go_to_trial" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.BarCode Low Code APIs Include" >}}

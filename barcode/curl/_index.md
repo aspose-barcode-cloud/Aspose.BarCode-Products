@@ -2,7 +2,6 @@
 title: cURL Barcode Maker REST API (1D, 2D, Postal Barcode Types)
 description: cURL Cloud REST API to generate and read QR, UPC, EAN 13, GS1 and lots of other 1D, 2D, Postal barcode types.
 weight: 30
-url: /curl
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
