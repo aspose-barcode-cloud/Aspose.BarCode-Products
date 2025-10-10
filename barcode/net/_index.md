@@ -2,7 +2,6 @@
 title: C# Barcode Generator, Recognizer and Reader (Cloud REST API)
 description: C# .NET SDK to create & read barcodes from more than 60 symbologies of 1D, 2D, and postal types
 weight: 60
-url: /net
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
