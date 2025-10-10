@@ -2,7 +2,6 @@
 title: Node.js Barcode Generator, Reader and Scanner (REST API)
 description: Node.js SDK to create & read barcodes from more than 60 symbologies of 1D, 2D, and postal types
 weight: 70
-url: /nodejs
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

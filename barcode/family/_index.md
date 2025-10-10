@@ -2,7 +2,6 @@
 title: REST Barcode Generator & Reader API (1D, 2D & Postal Barcodes)
 description: Cloud SDKs to generate, read and convert UPC, QR, GS1, EAN and 60+ types of 1D, 2D and Postal barcodes on multiple development platforms
 weight: 10
-url: /family
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

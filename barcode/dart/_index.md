@@ -2,7 +2,6 @@
 title: Dart and Flutter REST API - Generate, Scan & Recognize Barcodes Image in Cloud Apps
 description: Use Dart and Flutter REST API to create barcodes manipulation cloud apps for handling more than 60 symbologies of 1D, 2D, and postal barcode in the cloud
 weight: 40
-url: /dart
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

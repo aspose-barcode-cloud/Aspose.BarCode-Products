@@ -2,7 +2,6 @@
 title: Build Barcode Apps to Process 1D, 2D & Postal Barcodes via Java Cloud API
 description: Java SDK to create & read barcodes from more than 60 symbologies of 1D, 2D, and postal
 weight: 50
-url: /java
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
