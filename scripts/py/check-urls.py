@@ -20,9 +20,7 @@ Check them with CURL
 
 JOIN_TIMEOUT_SEC = 120
 
-EXIT_CODE_EXPECTATIONS: dict[str, tuple[int, int | None]] = {
-
-}
+EXIT_CODE_EXPECTATIONS: dict[str, tuple[int, int | None]] = {}
 
 REGEX_TO_IGNORE: list[re.Pattern[str]] = [
     # Ignore GitHub links to blobs and issues (they are internal links)

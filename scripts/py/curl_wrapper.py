@@ -43,13 +43,19 @@ class CurlWrapper:
                 "curl",
                 "-sSf",
                 "-L",  # follow redirects
-                f"--max-redirs={max_redirects}", # limit number of redirects
-                # "--proto=https",  # (optional) only allow https for the initial URL
-                "--proto-redir=-all,https",  # only allow https after redirects; http will fail
-                "--output=-", # discard body
-                f"--connect-timeout={connect_timeout}",
-                f"--max-time={max_time}",
-                f"--user-agent={user_agent}",
+                "--max-redirs",
+                f"{max_redirects}",  # limit number of redirects
+                # "--proto", "=https",  # (optional) only allow https for the initial URL
+                "--proto-redir",
+                "=all,https",  # only allow https after redirects; http will fail
+                "--output",
+                "-",  # discard body
+                "--connect-timeout",
+                f"{connect_timeout}",
+                "--max-time",
+                f"{max_time}",
+                "--user-agent",
+                f"{user_agent}",
                 self.url,
             ],
             stdout=open(os.devnull, "w"),
