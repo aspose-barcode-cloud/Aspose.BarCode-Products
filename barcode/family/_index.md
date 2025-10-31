@@ -51,7 +51,6 @@ Implement barcode reading, scanning, and processing capabilities in cloud applic
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/barcode" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-barcode-cloud/" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.cloud/barcode/" >}}
-{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
