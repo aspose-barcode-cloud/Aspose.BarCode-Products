@@ -10,7 +10,7 @@ url: /dart
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for Dart" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-dart.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-dart" liveDemosLink="https://products.aspose.app/barcode/family"  >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-dart.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/cloud/pricing/" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-dart" liveDemosLink="https://products.aspose.app/barcode/family"  >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.BarCode Cloud Dart SDK provides rich barcode processing functionality including such features as generating linear, 2D, and postal barcode labels, reading barcodes from images or data streams, customizing barcode configurations, setting dimensions and the height of bars, enabling and disabling checksum controls, inserting multiple barcodes in one image,  adjusting barcode text location, and many others. You can output barcode images in popular image file formats, such as JPEG, PNG, GIF, BMP, TIFF, and SVG, etc.</p>
@@ -447,7 +447,7 @@ url: /dart
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="" pricingInformationLink="https://purchase.aspose.cloud/pricing" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="" pricingInformationLink="https://purchase.aspose.cloud/cloud/pricing/" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.BarCode" >}}
 
