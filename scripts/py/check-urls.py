@@ -20,7 +20,9 @@ Check them with CURL
 
 JOIN_TIMEOUT_SEC = 120
 
-EXIT_CODE_EXPECTATIONS: dict[str, tuple[int, int | None]] = {}
+EXIT_CODE_EXPECTATIONS: dict[str, tuple[int, int | None]] = {
+    # "https://api.aspose.cloud/connect/token": (CurlExitCodes.HTTP_RETURNED_ERROR, 400),
+}
 
 REGEX_TO_IGNORE: list[re.Pattern[str]] = [
     # Ignore GitHub links to blobs and issues (they are internal links)
@@ -29,10 +31,7 @@ REGEX_TO_IGNORE: list[re.Pattern[str]] = [
 
 URLS_TO_IGNORE = frozenset(
     [
-        # TODO: Cleanup
-        # "https://api.aspose.cloud",
-        "https://www.aspose.cloud/404",
-        "https://www.aspose.cloud/404/",
+        "https://aspose.test",
     ]
 )
 
@@ -54,10 +53,6 @@ IGNORE_DOMAINS = Subdomains(
         ".readthedocs.io",
         ".w3.org",
         ".wikipedia.org",
-
-        # Test domains
-        ".test",
-
         # Regular domains
         "docs.github.com",
         "editorconfig.org",
