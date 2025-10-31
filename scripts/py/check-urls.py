@@ -119,6 +119,9 @@ FILES_TO_IGNORE = frozenset(
 
 def text_extractor(files: list[str]) -> typing.Generator[tuple[str, str], None, None]:
     for filename in files:
+        if __file__.replace("\\", "/").endswith(filename):
+            # Ignore content of this file
+            continue
         if os.path.splitext(filename)[1] in FILES_TO_IGNORE:
             continue
 

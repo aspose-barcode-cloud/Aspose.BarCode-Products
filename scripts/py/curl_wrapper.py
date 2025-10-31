@@ -32,7 +32,7 @@ class CurlWrapper:
         *,
         user_agent: str = DEFAULT_USER_AGENT,
         connect_timeout: int = 5,
-        max_time: int = 10,
+        max_time: int = 15,
         max_redirects: int = 3,
     ) -> None:
         self.url = url
