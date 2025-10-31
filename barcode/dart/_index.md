@@ -442,7 +442,7 @@ url: /dart
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode Cloud for Dart?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.cloud/customers" >}}
-{{< blocks/products/pf/slr-element name="Security" href="https://company.aspose.cloud/legal/security" >}}
+{{< blocks/products/pf/slr-element name="Security" href="https://about.aspose.cloud/legal/security/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
