@@ -32,7 +32,7 @@ class CurlWrapper:
         *,
         user_agent: str = DEFAULT_USER_AGENT,
         connect_timeout: int = 5,
-        max_time: int = 10,
+        max_time: int = 15,
         max_redirects: int = 3,
     ) -> None:
         self.url = url
@@ -41,13 +41,15 @@ class CurlWrapper:
         self._proc = subprocess.Popen(
             [
                 "curl",
-                "-sSf",
-                "-L",  # follow redirects
+                "--fail",  # fail on HTTP errors
+                "--silent",  # silent mode
+                "--show-error",  # show errors even with --silent
+                "--location",  # follow redirects
                 "--max-redirs",
                 f"{max_redirects}",  # limit number of redirects
                 # "--proto", "=https",  # (optional) only allow https for the initial URL
                 "--proto-redir",
-                "=all,https",  # only allow https after redirects; http will fail
+                "-all,https",  # only allow https after redirects; http will fail
                 "--output",
                 "-",  # discard body
                 "--connect-timeout",
