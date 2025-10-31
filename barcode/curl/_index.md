@@ -10,7 +10,7 @@ url: /curl
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="Cloud for cURL" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-curl.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud" liveDemosLink="https://products.aspose.app/barcode/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-curl.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/cloud/pricing/" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud" liveDemosLink="https://products.aspose.app/barcode/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.BarCode Cloud for cURL enables you to build cloud-based barcode processing applications with the generation, recognition, and scanning functionality using simple cURL commands. It supports more than 60 barcode symbologies, including 1D (linear), 2D, and postal barcode types. Using Aspose.BarCode Cloud for cURL, you can specify target barcode types, read barcodes from images, and configure barcode image properties, such as X and Y dimensions, orientation angle, image resolution, and many others.</p>
@@ -435,7 +435,7 @@ url: /curl
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="" pricingInformationLink="https://purchase.aspose.cloud/pricing" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="" pricingInformationLink="https://purchase.aspose.cloud/cloud/pricing/" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.BarCode" >}}
 

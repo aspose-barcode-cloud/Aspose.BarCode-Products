@@ -10,7 +10,7 @@ url: /php
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for PHP" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-php.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-php" liveDemosLink="https://products.aspose.app/barcode/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-php.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/cloud/pricing/" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-php" liveDemosLink="https://products.aspose.app/barcode/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>You can create new barcodes configuring their properties according to your business requirements. Aspose.BarCode Cloud SDK for PHP also allows customizing various barcode attributes, such as dimensions, resolution, margins, display angle, color, appearance-related properties, and others. You can generate auto-sized barcodes or specify exact size dimensions. Specific parameters, such as barcode text location or the height of bars, can be adjusted as well. It is possible to create one or multiple barcodes in a single image.  Moreover, Aspose.BarCode Cloud SDK for PHP allows scanning and reading barcodes of various symbologies at any rotation angle using image processing algorithms.</p>
@@ -443,7 +443,7 @@ url: /php
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="" pricingInformationLink="https://purchase.aspose.cloud/pricing" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="" pricingInformationLink="https://purchase.aspose.cloud/cloud/pricing/" >}}
 
 
 {{< blocks/products/pf/offers-section pfName="Aspose.BarCode" >}}

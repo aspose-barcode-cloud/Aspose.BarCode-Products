@@ -67,6 +67,6 @@ Implement barcode reading, scanning, and processing capabilities in cloud applic
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="" pricingInformationLink="https://purchase.aspose.cloud/pricing" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="" pricingInformationLink="https://purchase.aspose.cloud/cloud/pricing/" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

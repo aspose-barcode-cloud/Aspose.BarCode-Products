@@ -10,7 +10,7 @@ url: /java
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-java" liveDemosLink="https://products.aspose.app/barcode/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/cloud/pricing/" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-java" liveDemosLink="https://products.aspose.app/barcode/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.BarCode Cloud Java SDK is intended for software developers who aim at building cloud-based applications to work with barcode images. This SDK enables barcode generation and recognition for linear, 2D, and postal barcode types in cloud environments. Aspose.BarCode Cloud Java provides numerous features to work with barcode images, such as creating, reading, and processing barcodes in the cloud. Specifically, it enables generating, scanning, reading barcodes, saving barcode images to a stream and embedding them in a file, adding text to barcode labels, managing barcode appearance and text attributes, and many other features.</p>
@@ -472,7 +472,7 @@ url: /java
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="" pricingInformationLink="https://purchase.aspose.cloud/pricing" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="" pricingInformationLink="https://purchase.aspose.cloud/cloud/pricing/" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.BarCode" >}}
 

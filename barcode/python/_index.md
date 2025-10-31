@@ -10,7 +10,7 @@ url: /python
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for Python" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-python.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-php" liveDemosLink="https://products.aspose.app/barcode/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-python.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/cloud/pricing/" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-php" liveDemosLink="https://products.aspose.app/barcode/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.BarCode Cloud Python SDK is a cloud-based SDK for barcode management that enables software developers to create barcode processing applications using cloud Python API. This SDK allows working with linear, 2D, and postal barcodes, namely, performing barcode generation, modification, and recognition in cloud environments. It enables producing barcode images in several most used image file formats, such as JPEG, PNG, GIF, BMP, TIFF, and SVG.</p>
@@ -469,7 +469,7 @@ url: /python
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="" pricingInformationLink="https://purchase.aspose.cloud/pricing" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="" pricingInformationLink="https://purchase.aspose.cloud/cloud/pricing/" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.BarCode" >}}
 

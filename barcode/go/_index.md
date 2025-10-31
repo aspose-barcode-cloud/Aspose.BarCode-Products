@@ -10,7 +10,7 @@ url: /go
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for Go" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-go.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-go" liveDemosLink="https://products.aspose.app/barcode/family"  >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-go.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/cloud/pricing/" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-go" liveDemosLink="https://products.aspose.app/barcode/family"  >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.BarCode Cloud Go SDK enables numerous barcode processing features, such as supporting linear, 2D, and postal symbologies, creating new barcodes, scanning barcodes, setting barcode configurations, defining barcode dimensions and the height of bars, managing barcodes with checksum controls, inserting multiple barcodes into a single image, specifying barcode text location, and many others.</p>
@@ -447,7 +447,7 @@ url: /go
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="" pricingInformationLink="https://purchase.aspose.cloud/pricing" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="" pricingInformationLink="https://purchase.aspose.cloud/cloud/pricing/" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.BarCode" >}}
 
