@@ -441,7 +441,7 @@ url: /go
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode Cloud for Go?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.cloud/customers" >}}
+{{< blocks/products/pf/slr-element name="Customers List" href="https://about.aspose.cloud/customers/" >}}
 {{< blocks/products/pf/slr-element name="Security" href="https://about.aspose.cloud/legal/security/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
