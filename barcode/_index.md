@@ -2,7 +2,6 @@
 title: Barcode Solutions (On Premise APIs, REST APIs, Online Apps) 
 description: Build 1D, 2D, Postal Barcode Generator & Reader apps for desktop, web & cloud platforms or use our online free Apps to convert or recognize barcodes. 
 weight: 20
-url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

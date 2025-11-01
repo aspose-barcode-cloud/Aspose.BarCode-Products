@@ -2,7 +2,6 @@
 title: PHP Barcode Generator and Scanner (REST API for Cloud)
 description: PHP SDK to create & read barcodes from more than 60 symbologies of 1D, 2D, and postal types
 weight: 80
-url: /php
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
