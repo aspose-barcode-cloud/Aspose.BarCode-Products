@@ -3,13 +3,17 @@
   "author": "Denis Averin",
   "description": "Landing pages for BarCode Cloud",
   "homepage": "https://products.aspose.cloud/barcode/",
+  "engines": {
+    "node": ">=18"
+  },
   "devDependencies": {
     "autoprefixer": "^10.4.21",
-    "npm-check-updates": "^19.0.0",
+    "npm-check-updates": "^16.14.20",
     "postcss-cli": "^11.0.1"
   },
   "scripts": {
+    "check-updates": "ncu -u --enginesNode",
     "test": "node ./scripts/check-hugo-version.js",
-    "check-updates": "ncu -u --enginesNode"
+    "update": "ncu -u --enginesNode && npm install"
   }
 }
