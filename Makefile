@@ -30,3 +30,11 @@ npm-update:
 
 .PHONY: update
 update: update-sparse-repo npm-update
+
+.PHONY: site
+site:
+	./scripts/hugo-server.bash --dont-serve
+
+.PHONY: verify-urls
+verify-urls:
+	./scripts/verify-generated-urls.bash
