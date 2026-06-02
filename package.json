@@ -4,11 +4,11 @@
   "description": "Landing pages for BarCode Cloud",
   "homepage": "https://products.aspose.cloud/barcode/",
   "engines": {
-    "node": ">=18"
+    "node": ">=22"
   },
   "devDependencies": {
     "autoprefixer": "^10.5.0",
-    "npm-check-updates": "^16.14.20",
+    "npm-check-updates": "^20.0.2",
     "postcss-cli": "^11.0.1"
   },
   "scripts": {
