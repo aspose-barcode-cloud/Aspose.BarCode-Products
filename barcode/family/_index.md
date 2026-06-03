@@ -42,6 +42,10 @@ Enrich your cloud applications with barcode image generation, scanning, and proc
 Implement barcode reading, scanning, and processing capabilities in cloud applications through Platform-Independent Dart and Flutter Cloud SDK.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for Swift" imgSrc="/sdk/aspose_barcode-for-swift.png" productLink="/barcode/swift/" >}}
+Build iOS and macOS cloud applications to generate, scan, and recognize linear, 2D, and postal barcodes using Swift SDK.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
