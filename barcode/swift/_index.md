@@ -1,19 +1,20 @@
 ﻿---
-title: Dart and Flutter REST API - Generate, Scan & Recognize Barcodes Image in Cloud Apps
-description: Use Dart and Flutter REST API to create barcodes manipulation cloud apps for handling more than 60 symbologies of 1D, 2D, and postal barcode in the cloud
-weight: 40
+title: Swift Barcode Generator, Reader and Scanner (REST API)
+description: Swift SDK to create & read barcodes from more than 60 symbologies of 1D, 2D, and postal types
+weight: 100
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Dart and Flutter SDK to Read, Recognize & Manage Barcodes" h2="Use REST API to create barcodes processing apps for handling more than 60 symbologies in the cloud." logoImageSrc="/headers/aspose_barcode-for-dart.svg" pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for Dart and Flutter" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Generate & Scan Barcode via Swift" h2="Use Swift to build cloud-based barcode manipulation applications for 1D, 2D and postal barcode types for more than 60 symbologies." logoImageSrc="/sdk/aspose_barcode-for-swift.png" pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for Swift" downloadUrl="" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for Dart" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for Swift" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-dart.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/cloud/pricing/" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-dart" liveDemosLink="https://products.aspose.app/barcode/family"  >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-swift.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/cloud/pricing/" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/Aspose.BarCode-Cloud-SDK-for-Swift" liveDemosLink="https://products.aspose.app/barcode/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.BarCode Cloud Dart SDK provides rich barcode processing functionality including such features as generating linear, 2D, and postal barcode labels, reading barcodes from images or data streams, customizing barcode configurations, setting dimensions and the height of bars, enabling and disabling checksum controls, inserting multiple barcodes in one image,  adjusting barcode text location, and many others. You can output barcode images in popular image file formats, such as JPEG, PNG, GIF, BMP, TIFF, and SVG, etc.</p>
-<p>Aspose.BarCode Cloud Dart SDK allows programmers to recognize barcodes from a stream or an image file in cloud-based applications easily. This API supports more than 60 barcode symbologies, such as EAN, PDF417, UPC, QR Code, Micro QR Code, Postnet, Planet, RM4SCC, and many others.</p>
+<p>Aspose.BarCode Cloud SDK for Swift can be used to rapidly develop cloud-based Swift barcode generation and scanning applications. This easy-to-use barcode REST API allows developers to manipulate, process, generate, recognize, and convert 1D (e.g. EAN, UPC, and Codabar), 2D (e.g. Macro PDF417, Micro PDF417, and QR Code), and postal (e.g. Postnet, Planet, and RM4SCC) barcode types, including more than 60 most widely used symbologies.</p>
+<p>Moreover, Aspose.BarCode Cloud SDK for Swift enables configuring various properties of barcodes to be generated according to specific business needs. It is possible to adjust barcode image resolution, its quality, margins, and dimensions. Moreover, you can customize the height of bars in barcodes, rotation angle, or barcode text location.</p>
+<p>Aspose.BarCode Cloud SDK for Swift provides the capability to recognize all barcodes potentially presented in an image or scan a particular region of an image using image processing algorithms.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -38,7 +39,7 @@ weight: 40
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_barcode-for-dart.svg" alt="Barcode manipulation via Dart Cloud SDK"><header>Aspose.BarCode</header><footer>Cloud<small> <em> for </em> </small>Dart</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_barcode-for-swift.png" alt="Barcode manipulation via Swift Cloud SDK"><header>Aspose.BarCode</header><footer>Cloud<small> <em> for </em> </small>Swift</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -58,7 +59,7 @@ weight: 40
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_barcode-for-dart.svg" alt="Dart Barcode SDK"><header>Aspose.BarCode</header><footer>Cloud<small> <em> for </em> </small>Dart</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_barcode-for-swift.png" alt="Swift Barcode SDK"><header>Aspose.BarCode</header><footer>Cloud<small> <em> for </em> </small>Swift</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 
@@ -79,7 +80,7 @@ weight: 40
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced Barcode processing Features
+    Advanced Features of Swift SDK for Barcodes
    </h2>
    <p>
    </p>
@@ -129,7 +130,7 @@ weight: 40
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Recognize specified number of barcodes or read barcode from specific region of image
+     Read barcode from specific region of image
     </p>
    </div>
    <div class="col-lg-4">
@@ -146,59 +147,54 @@ weight: 40
      Generate and recognize barcode with checksum option
     </p>
    </div>
-
-
-
+   <div class="col-lg-4">
+    <em class="fa fa-barcode ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Read barcodes via applying image processing algorithms
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-eye ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Generate &amp; read barcode on Aspose cloud storage
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-signal ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Generate barcode to fetch as image stream or save to local disk
+    </p>
+   </div>
    <div class="col-lg-12">
     <h2 class="h2title">
      Get Started with Barcode Processing
     </h2>
     <p>
-     It is easy to get started working with Aspose.BarCode Cloud SDK for Dart, and there is no need to install anything. You need to create an account in
+     Using Aspose.BarCode Cloud SDK for Swift does not require anything to be installed and is easy to try. You simply need to create an account in
      <a href="https://dashboard.aspose.cloud/#/apps">
       Aspose for Cloud
      </a>
-     and obtain your application information. As soon as you get App SID &amp; KEY, you can proceed with testing Aspose.BarCode Cloud SDK for Dart on any supported platforms.
+     and receive your application information. As soon as you have Client ID and Client Secret, you can start working with Aspose.BarCode Cloud SDK for Swift on any supported platforms.
     </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Create Barcodes via Cloud Dart API
-    </h2>
-    <p>
-     Aspose.BarCode Cloud Dart SDK enables software developers to programmatically generate barcode images within cloud Dart and Flutter apps. This SDK offers a non-GUI class that facilitates creating barcode labels at runtime and then saving them to a file or a database. You can easily integrate barcode generation features into other applications with just a few lines of Dart commands.
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Work with 2D Barcodes in Cloud
-    </h2>
-    <p>
-     Aspose.BarCode Cloud Dart SDK allows developers to create and process two-dimensional (2D) barcodes in cloud environments. 2D barcodes are more complex than 1D symbologies and allow encoding large amounts of text data. 2D symbologies provide improved readability and enable data recovery in case of barcode damages. In substance, the process of generating 2D barcodes is similar to that of 1D barcode types.
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Enable Checksum Validation in Barcodes
-    </h2>
-    <p>
-     Aspose.BarCode Cloud Dart allows developers to enable checksum validation while working with barcodes in cloud-based applications. Checksum algorithms are used to identify errors and incorrectly decoded barcode data by including additional digits, in this way, protecting data integrity. Checksum validation may be optional for some barcode standards. For example, Code 128 and Code 39 are self-checking symbologies and do not require checksum verification. Other symbologies, such as UPC, Code 11, Standard 2-of-5, and others, require obligatory checksum controls.
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Generate Multiple Barcodes in Single Image
-    </h2>
-    <p>
-     Aspose.BarCode Cloud Dart SDK provides the capability to insert multiple barcode labels into a single image via Python REST API within cloud applications. Programmers can add different barcode types, such as UPC A, UPC E, Code 128, MSI, ISBN, ISMN, ISSN, QR Code, PDF417, EAN 13, EAN 8, Code 39, postal symbologies, and many others.
-    </p>
+    <!-- <div id="code" class="codeblock">
+
+<h3>Set X and Y Dimensions of a Barcode - Swift</h3>
+
+<pre><code class="cs  hljs">
+
+</code></pre>
+
+</div> -->
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
      Supported Barcode Symbologies
     </h2>
     <p>
-     Aspose.BarCode Cloud SDK for Dart supports various linear, 2D, and postal barcode types, including 60+ barcode symbologies.
+     Aspose.BarCode Cloud SDK for Swift enables the use of various linear, 2D, and postal symbologies. Specifically, it supports more than 60 different barcode types.
     </p>
     <p>
      Supported linear barcode symbologies are:
@@ -430,7 +426,7 @@ weight: 40
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/barcode" >}}
-{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-dart" >}}
+{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-barcode-cloud/Aspose.BarCode-Cloud-SDK-for-Swift" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.cloud/barcode/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -440,7 +436,7 @@ weight: 40
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/barcode/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode Cloud for Dart?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.BarCode Cloud for Swift?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://about.aspose.cloud/customers/" >}}
 {{< blocks/products/pf/slr-element name="Security" href="https://about.aspose.cloud/legal/security/" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -457,6 +453,7 @@ weight: 40
     {{< blocks/products/pf/offers-section-item link="/barcode/php/" imgSrc="/sdk/aspose_barcode-for-php.svg" platform="PHP" >}}
     {{< blocks/products/pf/offers-section-item link="/barcode/python/" imgSrc="/sdk/aspose_barcode-for-python.svg" platform="Python" >}}
     {{< blocks/products/pf/offers-section-item link="/barcode/nodejs/" imgSrc="/sdk/aspose_barcode-for-node.svg" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/swift/" imgSrc="/sdk/aspose_barcode-for-swift.png" platform="Swift" >}}
     {{< blocks/products/pf/offers-section-item link="/barcode/go/" imgSrc="/sdk/aspose_barcode-for-go.svg" platform="Go" >}}
     {{< blocks/products/pf/offers-section-item link="/barcode/dart/" imgSrc="/sdk/aspose_barcode-for-dart.svg" platform="Dart" >}}
 

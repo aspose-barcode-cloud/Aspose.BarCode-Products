@@ -425,6 +425,8 @@ weight: 40
 </div>
 <!--Feature-section End-->
 
+{{< /blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/barcode" >}}
