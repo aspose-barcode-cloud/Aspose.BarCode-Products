@@ -452,6 +452,7 @@ weight: 80
     {{< blocks/products/pf/offers-section-item link="/barcode/php/" imgSrc="/sdk/aspose_barcode-for-php.svg" platform="PHP" >}}
     {{< blocks/products/pf/offers-section-item link="/barcode/python/" imgSrc="/sdk/aspose_barcode-for-python.svg" platform="Python" >}}
     {{< blocks/products/pf/offers-section-item link="/barcode/nodejs/" imgSrc="/sdk/aspose_barcode-for-node.svg" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/swift/" imgSrc="/sdk/aspose_barcode-for-swift.png" platform="Swift" >}}
     {{< blocks/products/pf/offers-section-item link="/barcode/go/" imgSrc="/sdk/aspose_barcode-for-go.svg" platform="Go" >}}
     {{< blocks/products/pf/offers-section-item link="/barcode/dart/" imgSrc="/sdk/aspose_barcode-for-dart.svg" platform="Dart" >}}
 
