@@ -5,40 +5,40 @@ weight: 10
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Build Barcode Generator & Reader Cloud Apps" h2="Cloud SDKs to generate, read and convert UPC, QR, GS1, EAN and 60+ types of 1D, 2D and Postal barcodes on multiple development platforms." logoImageSrc="/headers/aspose_barcode.svg" pfName="Aspose.BarCode" downloadUrl="" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Build Barcode Generator & Reader Cloud Apps" h2="Cloud SDKs to generate, read and convert UPC, QR, GS1, EAN and 60+ types of 1D, 2D and Postal barcodes on multiple development platforms." logoImageSrc="/barcode/headers/aspose_barcode.svg" pfName="Aspose.BarCode" downloadUrl="" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.BarCode Low Code APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud for cURL" imgSrc="/sdk/aspose_barcode-for-curl.svg" productLink="/barcode/curl/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud for cURL" imgSrc="/barcode/sdk/aspose_barcode-for-curl.svg" productLink="/barcode/curl/" >}}
 cURL REST API to read and create 1D (linear), 2D, and postal barcodes. Supporting 60+ barcode symbologies. Easy barcode processing using cURL commands.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_barcode-for-net.svg" productLink="/barcode/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for .NET" imgSrc="/barcode/sdk/aspose_barcode-for-net.svg" productLink="/barcode/net/" >}}
 Build C# and .NET cloud-based apps to scan, read and generate barcodes (UPC, Codebar, EAN 13, PDF417, QR Code, Postnet, etc.). Choose from 60+ barcode types.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for Java" imgSrc="/sdk/aspose_barcode-for-java.svg" productLink="/barcode/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for Java" imgSrc="/barcode/sdk/aspose_barcode-for-java.svg" productLink="/barcode/java/" >}}
 Platform-Independent Java Cloud SDK to create, customize and recognize linear, 2D, & postal barcodes.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for PHP" imgSrc="/sdk/aspose_barcode-for-php.svg" productLink="/barcode/php/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for PHP" imgSrc="/barcode/sdk/aspose_barcode-for-php.svg" productLink="/barcode/php/" >}}
 PHP Cloud SDK to read barcodes from images, generate new barcodes with customizable parameters, and process 2D, postal, and linear barcodes in cloud-based PHP apps. Supports 60+ barcode symbologies.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_barcode-for-node.svg" productLink="/barcode/nodejs/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for Node.js" imgSrc="/barcode/sdk/aspose_barcode-for-node.svg" productLink="/barcode/nodejs/" >}}
 Transform your cloud applications to process barcode images with ease. Use Aspose.BarCode Cloud to create, adjust, and read linear, 2D, & postal barcodes via REST APIs.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for Python" imgSrc="/sdk/aspose_barcode-for-python.svg" productLink="/barcode/python/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for Python" imgSrc="/barcode/sdk/aspose_barcode-for-python.svg" productLink="/barcode/python/" >}}
 Perform advanced barcode processing and recognition via Python REST APIs. Scan, recognize and create 1D (linear), 2D, and postal barcodes.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for Go" imgSrc="/sdk/aspose_barcode-for-go.svg" productLink="/barcode/go/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for Go" imgSrc="/barcode/sdk/aspose_barcode-for-go.svg" productLink="/barcode/go/" >}}
 Enrich your cloud applications with barcode image generation, scanning, and processing functionality using Platform-Independent Go Cloud SDK.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for Dart" imgSrc="/sdk/aspose_barcode-for-dart.svg" productLink="/barcode/dart/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for Dart" imgSrc="/barcode/sdk/aspose_barcode-for-dart.svg" productLink="/barcode/dart/" >}}
 Implement barcode reading, scanning, and processing capabilities in cloud applications through Platform-Independent Dart and Flutter Cloud SDK.
 {{< /blocks/products/pf/product >}}
 

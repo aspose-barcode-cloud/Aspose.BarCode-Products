@@ -5,20 +5,20 @@ weight: 20
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/family-upper-banner h1="Barcode Generator & Scanner Solution" h2="Build 1D, 2D, Postal Barcode Generator & Reader apps for desktop, web & cloud platforms or use our online free Apps to convert or recognize barcodes." logoImageSrc="/headers/aspose_barcode-brand.svg" imageAlt="Aspose.BarCode Product Family" >}}
+{{< blocks/products/pf/family-upper-banner h1="Barcode Generator & Scanner Solution" h2="Build 1D, 2D, Postal Barcode Generator & Reader apps for desktop, web & cloud platforms or use our online free Apps to convert or recognize barcodes." logoImageSrc="/barcode/headers/aspose_barcode-brand.svg" imageAlt="Aspose.BarCode Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.BarCode Low Code APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud for cURL" imgSrc="/sdk/aspose_barcode-for-curl.svg" productLink="/barcode/curl/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud for cURL" imgSrc="/barcode/sdk/aspose_barcode-for-curl.svg" productLink="/barcode/curl/" >}}
 Generate, recognize & customize barcodes using cURL commands via REST API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_barcode-for-net.svg" productLink="/barcode/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for .NET" imgSrc="/barcode/sdk/aspose_barcode-for-net.svg" productLink="/barcode/net/" >}}
 Build barcode generator & scanner cloud-based applications in C#, ASP.NET & other .NET supported languages.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for PHP" imgSrc="/sdk/aspose_barcode-for-php.svg" productLink="/barcode/php/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode" title="Cloud SDK for PHP" imgSrc="/barcode/sdk/aspose_barcode-for-php.svg" productLink="/barcode/php/" >}}
 Use our PHP REST SDK to enhance your PHP code for linear, 2D & postal barcode generation & recognition.
 {{< /blocks/products/pf/product >}}
 
@@ -28,15 +28,15 @@ Use our PHP REST SDK to enhance your PHP code for linear, 2D & postal barcode ge
 
 {{< blocks/products/pf/product-card-row title="Aspose.BarCode High Code APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode for " title=".NET" imgSrc="/product-logos/aspose_barcode-for-net.svg" productLink="https://products.aspose.com/barcode/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode for " title=".NET" imgSrc="/barcode/product-logos/aspose_barcode-for-net.svg" productLink="https://products.aspose.com/barcode/net/" >}}
 On-premise .NET class library to build barcode reader & scanner apps via C#, ASP.NET, VB.NET etc.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode for " title="Java" imgSrc="/product-logos/aspose_barcode-for-java.svg" productLink="https://products.aspose.com/barcode/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode for " title="Java" imgSrc="/barcode/product-logos/aspose_barcode-for-java.svg" productLink="https://products.aspose.com/barcode/java/" >}}
 Create your own barcode maker & recognizer Java applications using on-premise Java API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.BarCode for " title="C++" imgSrc="/product-logos/aspose_barcode-for-cpp.svg" productLink="https://products.aspose.com/barcode/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.BarCode for " title="C++" imgSrc="/barcode/product-logos/aspose_barcode-for-cpp.svg" productLink="https://products.aspose.com/barcode/cpp/" >}}
 1D, 2D & postal Barcode generation & processor on-premise C++ API. Supports 60+ symbologies.
 {{< /blocks/products/pf/product >}}
 
