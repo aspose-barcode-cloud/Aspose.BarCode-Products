@@ -5,11 +5,11 @@ weight: 50
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Cloud SDK to Create & Recognize Barcodes" h2="Add Barcodes generation & Recognition functionalities to your cloud applications without any external dependencies. Use more than 60 symbologies of 1D, 2D, and postal Barcode." logoImageSrc="/headers/aspose_barcode-for-java.svg" pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for Java" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Java Cloud SDK to Create & Recognize Barcodes" h2="Add Barcodes generation & Recognition functionalities to your cloud applications without any external dependencies. Use more than 60 symbologies of 1D, 2D, and postal Barcode." logoImageSrc="/barcode/headers/aspose_barcode-for-java.svg" pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for Java" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.BarCode" subTitlepfName="Cloud SDK for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_barcode-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/cloud/pricing/" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-java" liveDemosLink="https://products.aspose.app/barcode/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/barcode/sdk/aspose_barcode-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/cloud/pricing/" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/barcode" directDownloadLink="https://github.com/aspose-barcode-cloud/aspose-barcode-cloud-java" liveDemosLink="https://products.aspose.app/barcode/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.BarCode Cloud Java SDK is intended for software developers who aim at building cloud-based applications to work with barcode images. This SDK enables barcode generation and recognition for linear, 2D, and postal barcode types in cloud environments. Aspose.BarCode Cloud Java provides numerous features to work with barcode images, such as creating, reading, and processing barcodes in the cloud. Specifically, it enables generating, scanning, reading barcodes, saving barcode images to a stream and embedding them in a file, adding text to barcode labels, managing barcode appearance and text attributes, and many other features.</p>
@@ -38,7 +38,7 @@ weight: 50
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_barcode-for-java.svg" alt="Barcode manipulation via Java Cloud SDK"><header>Aspose.BarCode</header><footer>Cloud<small> <em> for </em> </small>Java</footer></div>
+<div class="d1-logo"><img src="/barcode/sdk/aspose_barcode-for-java.svg" alt="Barcode manipulation via Java Cloud SDK"><header>Aspose.BarCode</header><footer>Cloud<small> <em> for </em> </small>Java</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -58,7 +58,7 @@ weight: 50
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_barcode-for-java.svg" alt="Java Barcode SDK"><header>Aspose.BarCode</header><footer>Cloud<small> <em> for </em> </small>Java</footer></div>
+<div class="d1-logo"><img src="/barcode/sdk/aspose_barcode-for-java.svg" alt="Java Barcode SDK"><header>Aspose.BarCode</header><footer>Cloud<small> <em> for </em> </small>Java</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 
@@ -474,14 +474,14 @@ weight: 50
 
 {{< blocks/products/pf/offers-section pfName="Aspose.BarCode" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/barcode/curl/" imgSrc="/sdk/aspose_barcode-for-curl.svg" platform="cURL" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/net/" imgSrc="/sdk/aspose_barcode-for-net.svg" platform=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/java/" imgSrc="/sdk/aspose_barcode-for-java.svg" platform="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/php/" imgSrc="/sdk/aspose_barcode-for-php.svg" platform="PHP" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/python/" imgSrc="/sdk/aspose_barcode-for-python.svg" platform="Python" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/nodejs/" imgSrc="/sdk/aspose_barcode-for-node.svg" platform="Node.js" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/go/" imgSrc="/sdk/aspose_barcode-for-go.svg" platform="Go" >}}
-    {{< blocks/products/pf/offers-section-item link="/barcode/dart/" imgSrc="/sdk/aspose_barcode-for-dart.svg" platform="Dart" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/curl/" imgSrc="/barcode/sdk/aspose_barcode-for-curl.svg" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/net/" imgSrc="/barcode/sdk/aspose_barcode-for-net.svg" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/java/" imgSrc="/barcode/sdk/aspose_barcode-for-java.svg" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/php/" imgSrc="/barcode/sdk/aspose_barcode-for-php.svg" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/python/" imgSrc="/barcode/sdk/aspose_barcode-for-python.svg" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/nodejs/" imgSrc="/barcode/sdk/aspose_barcode-for-node.svg" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/go/" imgSrc="/barcode/sdk/aspose_barcode-for-go.svg" platform="Go" >}}
+    {{< blocks/products/pf/offers-section-item link="/barcode/dart/" imgSrc="/barcode/sdk/aspose_barcode-for-dart.svg" platform="Dart" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
